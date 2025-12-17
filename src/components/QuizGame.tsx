@@ -6,17 +6,14 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { CheckCircle, XCircle, ArrowRight } from 'lucide-react';
 import Retrospective from './Retrospective';
 
+import { useRef } from 'react';
+import { QuizResult } from '@/types';
+
 interface QuizGameProps {
     words: VocabItem[];
     groupId: string;
     onComplete: (score: number, results: QuizResult[]) => void;
 }
-
-export type QuizResult = {
-    word: VocabItem;
-    correct: boolean;
-    selectedAnswer: string;
-};
 
 export default function QuizGame({ words, groupId, onComplete }: QuizGameProps) {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -117,11 +114,11 @@ export default function QuizGame({ words, groupId, onComplete }: QuizGameProps) 
             </div>
 
             <div className="bg-neutral-900 border border-neutral-800 rounded-3xl p-8 shadow-2xl">
-                <div className="text-center mb-10">
-                    <span className="text-neutral-500 text-sm uppercase tracking-widest font-bold">
+                <div className="text-center mb-6 md:mb-10">
+                    <span className="text-neutral-500 text-xs md:text-sm uppercase tracking-widest font-bold">
                         Word {currentIndex + 1} of {words.length}
                     </span>
-                    <h2 className="text-5xl font-extrabold text-white mt-4 mb-2">
+                    <h2 className="text-3xl md:text-5xl font-extrabold text-white mt-4 mb-2 break-words">
                         {currentWord.word}
                     </h2>
                 </div>
@@ -145,7 +142,7 @@ export default function QuizGame({ words, groupId, onComplete }: QuizGameProps) 
                                 key={idx}
                                 whileTap={!isAnswered ? { scale: 0.98 } : {}}
                                 onClick={() => handleOptionClick(option)}
-                                className={`w-full text-left p-5 rounded-xl border-2 transition-all duration-200 font-medium text-lg relative ${stateStyle}`}
+                                className={`w-full text-left p-4 md:p-5 rounded-xl border-2 transition-all duration-200 font-medium text-base md:text-lg relative ${stateStyle}`}
                                 disabled={isAnswered}
                             >
                                 {option}

@@ -1,7 +1,8 @@
 'use client';
 
 import { getRandomWords } from '@/lib/data';
-import QuizGame, { QuizResult } from '@/components/QuizGame';
+import QuizGame from '@/components/QuizGame';
+import { QuizResult } from '@/types';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { useEffect, useState } from 'react';

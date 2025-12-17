@@ -11,17 +11,17 @@ export default function Dashboard() {
 
   return (
     <div className="min-h-screen bg-neutral-950 text-neutral-100 p-8 font-sans">
-      <header className="max-w-5xl mx-auto mb-12 text-center">
-        <h1 className="text-4xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent mb-4">
-          GRE Vocab Mastery
+      <header className="max-w-5xl mx-auto mb-8 md:mb-12 text-center">
+        <h1 className="text-3xl md:text-4xl lg:text-5xl font-extrabold tracking-tight bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent mb-4">
+          GRE Vocab Quiz App
         </h1>
-        <p className="text-neutral-400 text-lg mb-8">
+        <p className="text-neutral-400 text-base md:text-lg mb-8 px-4">
           Master high-frequency GRE words with interactive quizzes.
         </p>
 
         <Link
           href="/quiz/random"
-          className="inline-flex items-center justify-center px-8 py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-full font-bold text-lg transition-all transform hover:scale-105 shadow-lg shadow-emerald-900/50"
+          className="inline-flex items-center justify-center px-6 py-3 md:px-8 md:py-4 bg-emerald-600 hover:bg-emerald-500 text-white rounded-full font-bold text-base md:text-lg transition-all transform hover:scale-105 shadow-lg shadow-emerald-900/50 w-full sm:w-auto mx-auto max-w-xs sm:max-w-none"
         >
           Start Random 50 Quiz
         </Link>

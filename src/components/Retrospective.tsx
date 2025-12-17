@@ -1,6 +1,6 @@
 'use client';
 
-import { QuizResult } from './QuizGame';
+import { QuizResult } from '@/types';
 import Link from 'next/link';
 import { Check, X, RefreshCw, Home } from 'lucide-react';
 import { motion } from 'framer-motion';
@@ -15,12 +15,12 @@ interface RetrospectiveProps {
 export default function Retrospective({ results, score, total, onRestart }: RetrospectiveProps) {
     return (
         <div className="max-w-4xl mx-auto w-full">
-            <div className="text-center mb-12">
-                <h2 className="text-3xl font-bold text-white mb-2">Quiz Complete!</h2>
-                <div className="text-6xl font-extrabold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent my-4">
+            <div className="text-center mb-8 md:mb-12">
+                <h2 className="text-2xl md:text-3xl font-bold text-white mb-2">Quiz Complete!</h2>
+                <div className="text-5xl md:text-6xl font-extrabold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent my-4">
                     {score}%
                 </div>
-                <p className="text-neutral-400">
+                <p className="text-neutral-400 text-sm md:text-base">
                     You got {results.filter(r => r.correct).length} out of {total} words correct.
                 </p>
             </div>
@@ -53,17 +53,17 @@ export default function Retrospective({ results, score, total, onRestart }: Retr
                 ))}
             </div>
 
-            <div className="flex justify-center gap-4 sticky bottom-8">
+            <div className="flex flex-col sm:flex-row justify-center gap-4 sticky bottom-4 md:bottom-8 px-4">
                 <Link
                     href="/"
-                    className="flex items-center gap-2 px-6 py-3 rounded-full bg-neutral-800 text-white font-bold hover:bg-neutral-700 transition-colors"
+                    className="flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-neutral-800 text-white font-bold hover:bg-neutral-700 transition-colors w-full sm:w-auto"
                 >
                     <Home size={20} />
                     Home
                 </Link>
                 <button
                     onClick={onRestart}
-                    className="flex items-center gap-2 px-6 py-3 rounded-full bg-white text-black font-bold hover:bg-neutral-200 transition-colors shadow-lg shadow-white/10"
+                    className="flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-white text-black font-bold hover:bg-neutral-200 transition-colors shadow-lg shadow-white/10 w-full sm:w-auto"
                 >
                     <RefreshCw size={20} />
                     Try Again

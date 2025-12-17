@@ -2,7 +2,8 @@
 
 import { useParams, useRouter } from 'next/navigation';
 import { getWordsByGroup } from '@/lib/data';
-import QuizGame, { QuizResult } from '@/components/QuizGame';
+import QuizGame from '@/components/QuizGame';
+import { QuizResult } from '@/types';
 import { useScores } from '@/hooks/useScores';
 import { use, useEffect, useState } from 'react';
 import Link from 'next/link';
