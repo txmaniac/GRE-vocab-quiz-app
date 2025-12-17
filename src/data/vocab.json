@@ -1,0 +1,6680 @@
+[
+  {
+    "id": "Group 1-abound",
+    "word": "abound",
+    "definition": "To be full to overflowing.",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-adulterate",
+    "word": "adulterate",
+    "definition": "corrupt, debase or make impure by adding some foreign or inferior substance; often by replacing valuable ingredients with inferior ones.",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-abate",
+    "word": "abate",
+    "definition": "become less in amount or intensity",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-abstain",
+    "word": "abstain",
+    "definition": "choose not to consume or take part in (particularly something enjoyable)",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-aloof",
+    "word": "aloof",
+    "definition": "Reserved and remote; either physically or emotionally distant; standoffish.",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-admonish",
+    "word": "admonish",
+    "definition": "to warn strongly, even to the point of reprimanding",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-appease",
+    "word": "appease",
+    "definition": "pacify by acceding to the demands of",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-accentuate",
+    "word": "accentuate",
+    "definition": "To pronounce with an accent or vocal stress.",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-boorish",
+    "word": "boorish",
+    "definition": "ill-mannered and coarse or contemptible in behavior or appearance",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-acumen",
+    "word": "acumen",
+    "definition": "ability to make good judgement and take quick decisions",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-amorphous",
+    "word": "amorphous",
+    "definition": "shapeless",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-advocate",
+    "word": "advocate",
+    "definition": "speak, plead, or argue in favor of",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-abjure",
+    "word": "abjure",
+    "definition": "formally reject or give up (as a belief)",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-approbation",
+    "word": "approbation",
+    "definition": "official approval",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-clangor",
+    "word": "clangor",
+    "definition": "A loud, repeating clanging sound; a loud racket; a din.",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-aesthetic",
+    "word": "aesthetic",
+    "definition": "concerned with the appreciation of beauty",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-arbitrary",
+    "word": "arbitrary",
+    "definition": "based on a random, groundless decision",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-conjectural",
+    "word": "conjectural",
+    "definition": "Something that is conjectural; a conjecture.",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-brook",
+    "word": "brook",
+    "definition": "put up with something or somebody unpleasant",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-antithesis",
+    "word": "antithesis",
+    "definition": "A proposition that is the diametric opposite of some other proposition.",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-austere",
+    "word": "austere",
+    "definition": "practicing self-denial",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-aggrandize",
+    "word": "aggrandize",
+    "definition": "to make larger or greater",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-anomalous",
+    "word": "anomalous",
+    "definition": "not normal",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-cherish",
+    "word": "cherish",
+    "definition": "To treat with affection, care, and tenderness; to nurture or protect with care.",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-conventional",
+    "word": "conventional",
+    "definition": "A conventional gilt-edged security, a kind of bond paying the holder a fixed cash payment (or coupon) every six months until maturity, at which point the holder receives the final payment and the return of the principal.",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-affectation",
+    "word": "affectation",
+    "definition": "An attempt to assume or exhibit what is not natural or real; false display; artificial show.",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-archaic",
+    "word": "archaic",
+    "definition": "so old as to appear to belong to a different period",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-convivial",
+    "word": "convivial",
+    "definition": "describing a lively atmosphere",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-circumspect",
+    "word": "circumspect",
+    "definition": "Carefully aware of all circumstances; considerate of all that is pertinent.",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-ascribe",
+    "word": "ascribe",
+    "definition": "attribute or credit to",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-belie",
+    "word": "belie",
+    "definition": "to give a false representation to; misrepresent",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-alacrity",
+    "word": "alacrity",
+    "definition": "an eager willingness to do something",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-antipathy",
+    "word": "antipathy",
+    "definition": "an intense feeling of dislike or aversion",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-corroborate",
+    "word": "corroborate",
+    "definition": "to confirm or lend support to (usually an idea or claim)",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-debunk",
+    "word": "debunk",
+    "definition": "expose as false ideas and claims, especially while ridiculing",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-alleviate",
+    "word": "alleviate",
+    "definition": "to make less severe",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-clamorous",
+    "word": "clamorous",
+    "definition": "Of or pertaining to clamor.",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-decadent",
+    "word": "decadent",
+    "definition": "A person affected by moral decay.",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-comity",
+    "word": "comity",
+    "definition": "Courtesy and considerate behaviour towards others; social harmony.",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-befuddled",
+    "word": "befuddled",
+    "definition": "To perplex, confuse (someone).",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-capricious",
+    "word": "capricious",
+    "definition": "determined by chance or impulse or whim rather than by necessity or reason",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-dr",
+    "word": "dr",
+    "definition": "A person or firm that owes money; one in debt; one who owes a debt",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-arcane",
+    "word": "arcane",
+    "definition": "requiring secret or mysterious knowledge",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-disparate",
+    "word": "disparate",
+    "definition": "two things are fundamentally different",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-diminutive",
+    "word": "diminutive",
+    "definition": "to indicate smallness",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-analogous",
+    "word": "analogous",
+    "definition": "similar in some respects but otherwise different",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-dearth",
+    "word": "dearth",
+    "definition": "a lack or shortage",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-egregious",
+    "word": "egregious",
+    "definition": "standing out in negative way; shockingly bad",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-commensurate",
+    "word": "commensurate",
+    "definition": "to be in proportion or corresponding in degree or amount",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-eschew",
+    "word": "eschew",
+    "definition": "avoid and stay away from deliberately; stay clear of",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-cerebral",
+    "word": "cerebral",
+    "definition": "involving intelligence rather than emotions or instinct",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-ameliorate",
+    "word": "ameliorate",
+    "definition": "make something bad better",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-arduous",
+    "word": "arduous",
+    "definition": "demanding considerable mental effort and skill; testing powers of endurance",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-emulate",
+    "word": "emulate",
+    "definition": "strive to equal or match, especially by imitating; compete with successfully",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-discernible",
+    "word": "discernible",
+    "definition": "Possible to discern; detectable or derivable by use of the senses or the intellect.",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-bolster",
+    "word": "bolster",
+    "definition": "support and strengthen",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-explicable",
+    "word": "explicable",
+    "definition": "Able to be explained.",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-evanescent",
+    "word": "evanescent",
+    "definition": "tending to vanish like vapor",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-cordial",
+    "word": "cordial",
+    "definition": "A concentrated noncarbonated soft drink which is diluted with water before drinking.",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-esoteric",
+    "word": "esoteric",
+    "definition": "confined to and understandable by only an enlightened inner circle",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-congenial",
+    "word": "congenial",
+    "definition": "Having the same or very similar nature, personality, tastes, habits or interests.",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-amenable",
+    "word": "amenable",
+    "definition": "easily persuaded",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-artless",
+    "word": "artless",
+    "definition": "without cunning or deceit",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-enervate",
+    "word": "enervate",
+    "definition": "to sap energy from",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-enigmatic",
+    "word": "enigmatic",
+    "definition": "Pertaining to an enigma.",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-chauvinistic",
+    "word": "chauvinistic",
+    "definition": "Of or pertaining to chauvinism or chauvinists.",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-hyperbole",
+    "word": "hyperbole",
+    "definition": "extravagant exaggeration",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-flamboyant",
+    "word": "flamboyant",
+    "definition": "The royal poinciana (Delonix regia), a showy tropical tree.",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-deleterious",
+    "word": "deleterious",
+    "definition": "harmful to living things",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-evasive",
+    "word": "evasive",
+    "definition": "avoiding or escaping from difficulty or danger or commitment",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-conspicuous",
+    "word": "conspicuous",
+    "definition": "without any attempt at concealment; completely obvious",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-anachronistic",
+    "word": "anachronistic",
+    "definition": "Erroneous in date; containing an anachronism; in a wrong time; not applicable to or not appropriate for the time.",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-ascetic",
+    "word": "ascetic",
+    "definition": "practicing self-denial",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-ephemeral",
+    "word": "ephemeral",
+    "definition": "lasting a very short time",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-estranged",
+    "word": "estranged",
+    "definition": "To cause to feel less close or friendly; alienate. To cease contact with (particularly of a family member or spouse, especially in form estranged).",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-connoisseur",
+    "word": "connoisseur",
+    "definition": "A specialist in a given field whose opinion is highly valued, especially in one of the fine arts or in matters of taste",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-immutable",
+    "word": "immutable",
+    "definition": "not able to be changed",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-forestall",
+    "word": "forestall",
+    "definition": "keep from happening or arising; make impossible",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-dichotomy",
+    "word": "dichotomy",
+    "definition": "being two folded; a classification into two oppesed parts or subclasses",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-exculpate",
+    "word": "exculpate",
+    "definition": "pronounce not guilty of criminal charges",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-cursory",
+    "word": "cursory",
+    "definition": "Hasty; superficial; careless",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-audacious",
+    "word": "audacious",
+    "definition": "willing to be bold in social situations or to take risks",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-assuage",
+    "word": "assuage",
+    "definition": "make something intense less severe",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-fervid",
+    "word": "fervid",
+    "definition": "Intensely hot, emotional, or zealous.",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-extravagant",
+    "word": "extravagant",
+    "definition": "Exceeding the bounds of something; roving; hence, foreign.",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-dissemble",
+    "word": "dissemble",
+    "definition": "conceal one's true motives, usually through deceit",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-indefatigable",
+    "word": "indefatigable",
+    "definition": "Extremely persistent and untiring.",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-gainsay",
+    "word": "gainsay",
+    "definition": "deny or contradict; speak against or oppose",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-edify",
+    "word": "edify",
+    "definition": "To build, construct.",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-expedite",
+    "word": "expedite",
+    "definition": "(transitive) To accelerate the progress of. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-daunting",
+    "word": "daunting",
+    "definition": "Discouraging; inspiring fear. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-avaricious",
+    "word": "avaricious",
+    "definition": "excessively greedy",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-betray",
+    "word": "betray",
+    "definition": "to reveal or make known something, usually unintentionally",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-garrulous",
+    "word": "garrulous",
+    "definition": "full of trivial conversation",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-fanciful",
+    "word": "fanciful",
+    "definition": "Imaginative or fantastic; ignoring reality. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-dogged",
+    "word": "dogged",
+    "definition": "stubbornly persevering, steadfast ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-indolent",
+    "word": "indolent",
+    "definition": "disinclined to work or exertion",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-galvanize",
+    "word": "galvanize",
+    "definition": "to excite or inspire (someone) to action",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-elicit",
+    "word": "elicit",
+    "definition": "call forth (emotions, feelings, and responses)",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-fastidious",
+    "word": "fastidious",
+    "definition": "overly concerned with details; fussy",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-deify",
+    "word": "deify",
+    "definition": "(transitive) To make into a god. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-banal",
+    "word": "banal",
+    "definition": "repeated too often; overfamiliar through overuse",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-bucolic",
+    "word": "bucolic",
+    "definition": "relating to the pleasant aspects of the country",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-incendiary",
+    "word": "incendiary",
+    "definition": "Capable of, or used for, or actually causing fire. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-frivolous",
+    "word": "frivolous",
+    "definition": "not serious in content or attitude or behavior",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-dupe",
+    "word": "dupe",
+    "definition": "to trick or swindle",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-insular",
+    "word": "insular",
+    "definition": "Of or being, pertaining to, situated on, or resembling an island or islands. ",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-indiscriminate",
+    "word": "indiscriminate",
+    "definition": "Without care or making distinctions, thoughtless. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-erudite",
+    "word": "erudite",
+    "definition": "having or showing profound knowledge",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-feign",
+    "word": "feign",
+    "definition": "To make a false show or pretence of; to counterfeit or simulate. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-didactic",
+    "word": "didactic",
+    "definition": "instructive (especially excessively)",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-benign",
+    "word": "benign",
+    "definition": "kind",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-burgeon",
+    "word": "burgeon",
+    "definition": "grow and flourish",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-inimical",
+    "word": "inimical",
+    "definition": "hostile (usually describes conditions or environments)",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-heterogeneous",
+    "word": "heterogeneous",
+    "definition": "Diverse in kind or nature; composed of diverse parts. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-empirical",
+    "word": "empirical",
+    "definition": "derived from experiment and observations rather than theory.",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-intransigent",
+    "word": "intransigent",
+    "definition": "unwilling to change one's beliefs or course of action",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-innocuous",
+    "word": "innocuous",
+    "definition": "harmless and doesn’t produce any ill effects",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-fecund",
+    "word": "fecund",
+    "definition": "intellectually productive",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-furtive",
+    "word": "furtive",
+    "definition": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-disseminate",
+    "word": "disseminate",
+    "definition": "cause to become widely known",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-brazen",
+    "word": "brazen",
+    "definition": "unrestrained by convention or propriety",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-cacophonous",
+    "word": "cacophonous",
+    "definition": "having an unpleasant sound",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-intimate",
+    "word": "intimate",
+    "definition": "to suggest something subtly",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-imperious",
+    "word": "imperious",
+    "definition": "having or showing arrogant superiority to and disdain of those one views as unworthy",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-engender",
+    "word": "engender",
+    "definition": "give rise to",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-intrepid",
+    "word": "intrepid",
+    "definition": "fearless",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-momentary",
+    "word": "momentary",
+    "definition": "Lasting for only a moment. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-feeble",
+    "word": "feeble",
+    "definition": "Deficient in physical strength. ",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-hamper",
+    "word": "hamper",
+    "definition": "prevent the progress or free movement of",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-feasible",
+    "word": "feasible",
+    "definition": "Able to be done in practice. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-calumny",
+    "word": "calumny",
+    "definition": "making of a false statement meant to injure a person’s reputation",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-canonize",
+    "word": "canonize",
+    "definition": "(chiefly Roman Catholicism) To declare (a deceased person) as a saint, and enter them into the canon of saints. ",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-invigorate",
+    "word": "invigorate",
+    "definition": "(transitive) To impart vigor, strength, or vitality to. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-impertinent",
+    "word": "impertinent",
+    "definition": "being disrespectful; improperly forward or bold",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-entitled",
+    "word": "entitled",
+    "definition": "(literally) Having a title. ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-irreverent",
+    "word": "irreverent",
+    "definition": "Lacking respect; not having or not showing respect for or seriousness towards something that is usually treated with respect; going against conventional precepts. ",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-mundane",
+    "word": "mundane",
+    "definition": "repetitive and boring; not spiritual",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-felicitous",
+    "word": "felicitous",
+    "definition": "exhibiting or agreeing appropriate manner or style",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-indispensable",
+    "word": "indispensable",
+    "definition": "(ecclesiastical, obsolete) Not admitting ecclesiastical dispensation; not subject to release or exemption; that cannot be allowed by bending the canonical rules. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-flout",
+    "word": "flout",
+    "definition": "treat with contemptuous disregard",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-candid",
+    "word": "candid",
+    "definition": "a straightforward and honest look at something",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-censure",
+    "word": "censure",
+    "definition": "to express strong disapproval",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-mitigate",
+    "word": "mitigate",
+    "definition": "make less severe or harsh",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-invasive",
+    "word": "invasive",
+    "definition": "Of or pertaining to invasion; offensive. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-pertinacious",
+    "word": "pertinacious",
+    "definition": "Holding tenaciously to an opinion or purpose. ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-loathe",
+    "word": "loathe",
+    "definition": "(transitive) To detest, hate, or revile (someone or something). ",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-nettlesome",
+    "word": "nettlesome",
+    "definition": "causing irritation or annoyance",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-forbear",
+    "word": "forbear",
+    "definition": "(transitive) To keep away from; to avoid; to abstain from. ",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-lament",
+    "word": "lament",
+    "definition": "a passionate expression of grief or sorrow",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-homogeneous",
+    "word": "homogeneous",
+    "definition": "all of the same or similar kind or nature",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-castigate",
+    "word": "castigate",
+    "definition": "to reprimand harshly",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-chicanery",
+    "word": "chicanery",
+    "definition": "a use of trick to achieve political, financial or legal purpose",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-obsolete",
+    "word": "obsolete",
+    "definition": "(of words, equipment, etc.) No longer in use; gone into disuse; disused or neglected (often in favour of something newer). ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-irresolute",
+    "word": "irresolute",
+    "definition": "uncertain how to act or proceed",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-presumptuous",
+    "word": "presumptuous",
+    "definition": "excessively forward",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-malign",
+    "word": "malign",
+    "definition": "Evil or malignant in disposition, nature, intent or influence. ",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-nullify",
+    "word": "nullify",
+    "definition": "(transitive, law) To make legally invalid. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-haphazard",
+    "word": "haphazard",
+    "definition": "marked by great carelessness; dependent upon or characterized by chance",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-myopic",
+    "word": "myopic",
+    "definition": "lacking foresight or imagination",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-humdrum",
+    "word": "humdrum",
+    "definition": "dull and lacking excitement",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-caustic",
+    "word": "caustic",
+    "definition": "of substance; especially a strong acid; capable of destroying or eating away by chemical action",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-coalesce",
+    "word": "coalesce",
+    "definition": "fuse or cause to grow together",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-opaque",
+    "word": "opaque",
+    "definition": "not clearly understood or expressed",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-laudable",
+    "word": "laudable",
+    "definition": "worthy of high praise",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-probity",
+    "word": "probity",
+    "definition": "integrity, strong moral principles",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-malleable",
+    "word": "malleable",
+    "definition": "capable of being shaped or bent or drawn out",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-obviate",
+    "word": "obviate",
+    "definition": "do away with",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-hodgepodge",
+    "word": "hodgepodge",
+    "definition": "a confusing mixture or jumble",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-nonchalant",
+    "word": "nonchalant",
+    "definition": "coming across as uninterested or unconcerned; overly casual",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-insipid",
+    "word": "insipid",
+    "definition": "dull and uninteresting",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-construe",
+    "word": "construe",
+    "definition": "interpreted in a particular way",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-cogent",
+    "word": "cogent",
+    "definition": "clear and persuasive",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-paradigmatic",
+    "word": "paradigmatic",
+    "definition": "Of or pertaining to a paradigm. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-lax",
+    "word": "lax",
+    "definition": "(now chiefly UK dialectal, Scotland) A salmon. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-proliferate",
+    "word": "proliferate",
+    "definition": "grow rapidly",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-neophyte",
+    "word": "neophyte",
+    "definition": "any new participant in some activity",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-omnipresent",
+    "word": "omnipresent",
+    "definition": "Being everywhere simultaneously. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-impede",
+    "word": "impede",
+    "definition": "be a hindrance or obstacle to",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-partial",
+    "word": "partial",
+    "definition": "existing as a part or portion; incomplete ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-loquacious",
+    "word": "loquacious",
+    "definition": "full of trivial conversation",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-contrite",
+    "word": "contrite",
+    "definition": "to be remorseful",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-compelling",
+    "word": "compelling",
+    "definition": "Strongly or irresistibly evoking interest or attention. ",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-pedantic",
+    "word": "pedantic",
+    "definition": "marked by a narrow focus on or display of learning especially its trivial aspects",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-marginalize",
+    "word": "marginalize",
+    "definition": "(transitive) To relegate (something, especially a topic or a group of people) to the margins or to a lower limit; to exclude socially or otherwise. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-specious",
+    "word": "specious",
+    "definition": "based on pretense; deceptively pleasing",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-plastic",
+    "word": "plastic",
+    "definition": "A synthetic, solid, hydrocarbon-based polymer, whether thermoplastic or thermosetting. ",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-oust",
+    "word": "oust",
+    "definition": "(transitive) To expel; to remove. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-impetuous",
+    "word": "impetuous",
+    "definition": "characterized by undue haste and lack of thought or deliberation",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-pensive",
+    "word": "pensive",
+    "definition": "deeply or seriously thoughtful",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-misanthropic",
+    "word": "misanthropic",
+    "definition": "Having a negative view of mankind. This may express itself as, e.g., distrust, dislike, hate, or contempt. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-convoluted",
+    "word": "convoluted",
+    "definition": "highly complex or intricate",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-contend",
+    "word": "contend",
+    "definition": "(intransitive) To be in opposition; to contest; to dispute; to vie; to quarrel; to fight. ",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-placid",
+    "word": "placid",
+    "definition": "not easily irritated",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-panache",
+    "word": "panache",
+    "definition": "distinctive and showy elegance",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-spurious",
+    "word": "spurious",
+    "definition": "plausible but false",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-platitude",
+    "word": "platitude",
+    "definition": "a trite or obvious remark",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-palpable",
+    "word": "palpable",
+    "definition": "Capable of being touched, felt or handled; touchable, tangible. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-irascible",
+    "word": "irascible",
+    "definition": "quickly aroused to anger",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-portend",
+    "word": "portend",
+    "definition": "(transitive) To serve as a warning or omen of. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-misnomer",
+    "word": "misnomer",
+    "definition": "A use of a term that is misleading; a misname. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-covet",
+    "word": "covet",
+    "definition": "(transitive) To wish for with eagerness; to desire possession of, often enviously. ",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-copious",
+    "word": "copious",
+    "definition": "in abundant supply",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-polemical",
+    "word": "polemical",
+    "definition": "of or involving strongly critical or disputatious writing or speech",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-plodding",
+    "word": "plodding",
+    "definition": "(of movement) slow and laborious",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-subjective",
+    "word": "subjective",
+    "definition": "Formed, as in opinions, based upon a person's feelings or intuition, rather than upon observation or purely logical reasoning; coming more from within the observer than from observations of the external environment. ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-prescient",
+    "word": "prescient",
+    "definition": "having or showing knowledge of events even before they take place",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-perfidy",
+    "word": "perfidy",
+    "definition": "an act of deliberate betrayal; a breach of a trust",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-mercenary",
+    "word": "mercenary",
+    "definition": "(archaic) One motivated by gain, especially monetary. ",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-provincial",
+    "word": "provincial",
+    "definition": "characteristic of a limited perspective; not fashionable or sophisticated",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-negligent",
+    "word": "negligent",
+    "definition": "Careless or inattentive. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-craven",
+    "word": "craven",
+    "definition": "pathetically cowardly",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-cosmopolitan",
+    "word": "cosmopolitan",
+    "definition": "comprising many cultures; global in reach and outlook",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-precipitate",
+    "word": "precipitate",
+    "definition": "hasty or rash",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-prosaic",
+    "word": "prosaic",
+    "definition": "dull and lacking imagination",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-subvert",
+    "word": "subvert",
+    "definition": "(transitive) To overturn from the foundation; to overthrow; to ruin utterly. ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-pristine",
+    "word": "pristine",
+    "definition": "Unspoiled, untouched (usu. of nature)",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-profuse",
+    "word": "profuse",
+    "definition": "plentiful; pouring out in abundance",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-meticulous",
+    "word": "meticulous",
+    "definition": "marked by extreme care in treatment of details",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-rudimentary",
+    "word": "rudimentary",
+    "definition": "being in the earliest stages of development; being or involving basic facts or principles",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-obsequious",
+    "word": "obsequious",
+    "definition": "attentive in an ingratiating or servile manner; attempting to win favor from influential people by flattery",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-decorum",
+    "word": "decorum",
+    "definition": "propriety in manners and conduct",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-deference",
+    "word": "deference",
+    "definition": "courteous regards for people's feelings",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-profundity",
+    "word": "profundity",
+    "definition": "The state of being profound or abstruse. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-remedial",
+    "word": "remedial",
+    "definition": "curative; providing a remedy ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-timorous",
+    "word": "timorous",
+    "definition": "timid by nature or revealing fear and nervousness",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-reproach",
+    "word": "reproach",
+    "definition": "to express criticism towards",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-pugnacious",
+    "word": "pugnacious",
+    "definition": "eager to fight or argue; verbally combative",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-mordant",
+    "word": "mordant",
+    "definition": "biting and caustic in thought, manner, or style",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-salutary",
+    "word": "salutary",
+    "definition": "Effecting or designed to effect an improvement; remedial. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-placate",
+    "word": "placate",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-deft",
+    "word": "deft",
+    "definition": "Quick and neat in action; skillful. ",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-desultory",
+    "word": "desultory",
+    "definition": "marked by lack of plan or regularity or purpose, jumping from one thing to another",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-prophetic",
+    "word": "prophetic",
+    "definition": "Having the ability to prophesize; prescient. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-restive",
+    "word": "restive",
+    "definition": "restless",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-tortuous",
+    "word": "tortuous",
+    "definition": "marked by repeated turns and bends; not straightforward",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-robust",
+    "word": "robust",
+    "definition": "sturdy and strong in form, constitution, or construction",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-sagacious",
+    "word": "sagacious",
+    "definition": "having good judgement and acute insight",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-outstrip",
+    "word": "outstrip",
+    "definition": "To move more quickly than (someone or something) so as to outrun or leave it behind. ",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-sever",
+    "word": "sever",
+    "definition": "(transitive) To cut free. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-proclivity",
+    "word": "proclivity",
+    "definition": "A predisposition or natural inclination, propensity, or a predilection; especially, a strong disposition or bent. ",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-demur",
+    "word": "demur",
+    "definition": "to object or show reluctance",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-diffident",
+    "word": "diffident",
+    "definition": "showing modest reserve; lacking self-confidence",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-prudent",
+    "word": "prudent",
+    "definition": "Sagacious in adapting means to ends; circumspect in action, or in determining any line of conduct. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-sporadic",
+    "word": "sporadic",
+    "definition": "recurring in scattered and irregular or unpredictable instances",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-tractable",
+    "word": "tractable",
+    "definition": "readily reacting to suggestions and influences; easily managed (controlled or taught or molded)",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-salubrious",
+    "word": "salubrious",
+    "definition": "promoting health; healthful",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-sanguine",
+    "word": "sanguine",
+    "definition": "cheerful; optimistic",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-precarious",
+    "word": "precarious",
+    "definition": "fraught with danger",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-slight",
+    "word": "slight",
+    "definition": "Small. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-puerile",
+    "word": "puerile",
+    "definition": "of or characteristic of a child; displaying or suggesting a lack of maturity",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-derivative",
+    "word": "derivative",
+    "definition": "not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-dilatory",
+    "word": "dilatory",
+    "definition": "wasting time",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-punctilious",
+    "word": "punctilious",
+    "definition": "marked by precise accordance with details",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-stigmatize",
+    "word": "stigmatize",
+    "definition": "(transitive) To characterize as disgraceful or ignominious; to mark with a stigma or stigmata. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-transient",
+    "word": "transient",
+    "definition": "lasting a very short time",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-sanction",
+    "word": "sanction",
+    "definition": "give authority or permission to",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-scant",
+    "word": "scant",
+    "definition": "Not full, large, or plentiful; scarcely sufficient; scanty; meager. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-quirky",
+    "word": "quirky",
+    "definition": "Given to quirks or idiosyncrasies; strange in a somewhat silly, awkward manner, potentially cute. ",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-somnolent",
+    "word": "somnolent",
+    "definition": "Drowsy or sleepy. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-quixotic",
+    "word": "quixotic",
+    "definition": "wildly idealistic; impractical",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-desiccate",
+    "word": "desiccate",
+    "definition": "lacking vitality or spirit; lifeless",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-equivocate",
+    "word": "equivocate",
+    "definition": "to speak vaguely, usually with the intention to mislead or deceive",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-recondite",
+    "word": "recondite",
+    "definition": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-undermine",
+    "word": "undermine",
+    "definition": "to weaken (usually paired with an abstract term)",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-ubiquitous",
+    "word": "ubiquitous",
+    "definition": "Being everywhere at once: omnipresent. ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-sedulous",
+    "word": "sedulous",
+    "definition": "done diligently and carefully",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-skullduggery",
+    "word": "skullduggery",
+    "definition": "US spelling of skulduggery [(countable) A devious device or trick.] ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-repudiate",
+    "word": "repudiate",
+    "definition": "reject as untrue or unfounded",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-stoic",
+    "word": "stoic",
+    "definition": "(philosophy) Proponent of stoicism, a school of thought, from in 300 B.C.E. up to about the time of Marcus Aurelius, who holds that by cultivating an understanding of the logos, or natural law, one can be free of suffering. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-spendthrift",
+    "word": "spendthrift",
+    "definition": "one who spends money extravagantly",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-diatribe",
+    "word": "diatribe",
+    "definition": "a strong verbal attack against a person or institution",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-polarize",
+    "word": "polarize",
+    "definition": "(transitive, US) To cause to have a polarization. ",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-scrupulous",
+    "word": "scrupulous",
+    "definition": "characterized by extreme care and great effort",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-utterly",
+    "word": "utterly",
+    "definition": "Completely; entirely; to the fullest extent. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-underscore",
+    "word": "underscore",
+    "definition": "give extra weight to (a communication)",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-soporific",
+    "word": "soporific",
+    "definition": "inducing mental lethargy; sleep inducing",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-trivial",
+    "word": "trivial",
+    "definition": "Ignorable; of little significance or value. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-tact",
+    "word": "tact",
+    "definition": "consideration in dealing with others and avoiding giving offense",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-supersede",
+    "word": "supersede",
+    "definition": "take the place or move into position of",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-taciturn",
+    "word": "taciturn",
+    "definition": "habitually reserved and uncommunicative",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-incredulous",
+    "word": "incredulous",
+    "definition": "Skeptical, disbelieving, or unable to believe. ",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-prodigal",
+    "word": "prodigal",
+    "definition": "rashly or wastefully extravagant",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-tranquil",
+    "word": "tranquil",
+    "definition": "Free from emotional or mental disturbance. ",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-weary",
+    "word": "weary",
+    "definition": "Having the strength exhausted by toil or exertion; tired; fatigued. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-venal",
+    "word": "venal",
+    "definition": "(rare, archaic) Venous; pertaining to veins. ",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-stern",
+    "word": "stern",
+    "definition": "Having a hardness and severity of nature or manner. ",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-utilitarian",
+    "word": "utilitarian",
+    "definition": "Of or relating to utility. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-trifling",
+    "word": "trifling",
+    "definition": "unimportant",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-tout",
+    "word": "tout",
+    "definition": "advertize in strongly positive terms; show off",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 1-wary",
+    "word": "wary",
+    "definition": "marked by keen caution and watchful prudence",
+    "group": "Group 1"
+  },
+  {
+    "id": "Group 2-ingenuous",
+    "word": "ingenuous",
+    "definition": "to be naïve and innocent",
+    "group": "Group 2"
+  },
+  {
+    "id": "Group 3-verbose",
+    "word": "verbose",
+    "definition": "using or containing many words",
+    "group": "Group 3"
+  },
+  {
+    "id": "Group 4-vacillate",
+    "word": "vacillate",
+    "definition": "be undecided about something; waver between conflicting positions or courses of action",
+    "group": "Group 4"
+  },
+  {
+    "id": "Group 5-zealous",
+    "word": "zealous",
+    "definition": "Full of zeal; ardent, fervent; exhibiting enthusiasm or strong passion. ",
+    "group": "Group 5"
+  },
+  {
+    "id": "Group 6-venerate",
+    "word": "venerate",
+    "definition": "to respect deeply",
+    "group": "Group 6"
+  },
+  {
+    "id": "Group 7-tendentious",
+    "word": "tendentious",
+    "definition": "likely to lean towards a controversial view",
+    "group": "Group 7"
+  },
+  {
+    "id": "Group 8-vapid",
+    "word": "vapid",
+    "definition": "Offering nothing that is stimulating or challenging. ",
+    "group": "Group 8"
+  },
+  {
+    "id": "Group 9-turbulent",
+    "word": "turbulent",
+    "definition": "violently disturbed or agitated; tempestuous, tumultuous ",
+    "group": "Group 9"
+  },
+  {
+    "id": "Group 10-wane",
+    "word": "wane",
+    "definition": "A gradual diminution in power, value, intensity etc. ",
+    "group": "Group 10"
+  },
+  {
+    "id": "Group 11-abhor",
+    "word": "abhor",
+    "definition": "(transitive) To regard (someone or something) as horrifying or detestable; to feel great repugnance toward. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-acrimonious",
+    "word": "acrimonious",
+    "definition": "(archaic) Harsh and sharp, or bitter and not pleasant to the taste; acrid, pungent. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-affinity",
+    "word": "affinity",
+    "definition": "fondness; liking; similarity",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-acquiesce",
+    "word": "acquiesce",
+    "definition": "(intransitive, with in or to (or sometimes with)) To rest satisfied, or apparently satisfied, or to rest without opposition and discontent (usually implying previous opposition or discontent); to accept or consent by silence or by omitting to object. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-alienate",
+    "word": "alienate",
+    "definition": "(archaic, followed by \"from\") Estranged; withdrawn in affection; foreign ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-antedate",
+    "word": "antedate",
+    "definition": "precede in time",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-acclaim",
+    "word": "acclaim",
+    "definition": "(archaic, transitive) To shout; to call out. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-abet",
+    "word": "abet",
+    "definition": "(transitive, crime) To incite; to assist or encourage by aid or countenance in crime. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-acolyte",
+    "word": "acolyte",
+    "definition": "(Christianity) One who has received the highest of the four minor orders in the Catholic Church, being ordained to carry the wine, water and lights at Mass. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-abreast",
+    "word": "abreast",
+    "definition": "Side by side and facing forward. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-boisterous",
+    "word": "boisterous",
+    "definition": "Full of energy; exuberant; noisy. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-belligerent",
+    "word": "belligerent",
+    "definition": "characteristic of one eager to fight",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-altruistic",
+    "word": "altruistic",
+    "definition": "Regardful of others; beneficent; unselfish ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-adroit",
+    "word": "adroit",
+    "definition": "deft, dexterous, or skillful ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-apathy",
+    "word": "apathy",
+    "definition": "an absence of emotion or enthusiasm",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-banish",
+    "word": "banish",
+    "definition": "expel from a community, residence, or location; drive away",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-ascertain",
+    "word": "ascertain",
+    "definition": "(transitive) To find out definitely; to discover or establish. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-accessible",
+    "word": "accessible",
+    "definition": "Easy of access or approach. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-anoint",
+    "word": "anoint",
+    "definition": "(transitive) To smear or rub over with oil or an unctuous substance; also, to spread over, as oil. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-confound",
+    "word": "confound",
+    "definition": "be confusing or perplexing to",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-chivalrous",
+    "word": "chivalrous",
+    "definition": "being attentive to women like an ideal knight",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-beneficent",
+    "word": "beneficent",
+    "definition": "doing or producing good",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-baroque",
+    "word": "baroque",
+    "definition": "(art, music) From or characteristic of the Baroque period. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-amend",
+    "word": "amend",
+    "definition": "(transitive) To make better; improve. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-apropos",
+    "word": "apropos",
+    "definition": "Of an appropriate or pertinent nature. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-bridle",
+    "word": "bridle",
+    "definition": "the act of restraining power or action or limiting excess",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-assertive",
+    "word": "assertive",
+    "definition": "Boldly self-assured; confident without being aggressive. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-acquisitive",
+    "word": "acquisitive",
+    "definition": "(obsolete) Acquired. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-base",
+    "word": "base",
+    "definition": "the lowest, without any moral principles",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-digression",
+    "word": "digression",
+    "definition": "a turning side(of your course or attention or concern)",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-churlish",
+    "word": "churlish",
+    "definition": "lacking manners or refinement",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-canny",
+    "word": "canny",
+    "definition": "Careful, prudent, cautious. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-byzantine",
+    "word": "byzantine",
+    "definition": "intricate and complex",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-animus",
+    "word": "animus",
+    "definition": "The basic impulses and instincts which govern one's actions. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-apt",
+    "word": "apt",
+    "definition": "Suitable; appropriate; fit or fitted; suited. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-comply",
+    "word": "comply",
+    "definition": "To yield assent; to accord; to acquiesce, agree, consent; to adapt oneself, to conform. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-bogus",
+    "word": "bogus",
+    "definition": "Counterfeit or fake; not genuine. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-amalgamate",
+    "word": "amalgamate",
+    "definition": "to bring or combine together or with something else",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-coercion",
+    "word": "coercion",
+    "definition": "(uncountable) Actual or threatened force for the purpose of compelling action by another person; the act of coercing. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-discrepancy",
+    "word": "discrepancy",
+    "definition": "a difference between conflicting facts or claims or opinions",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-clandestine",
+    "word": "clandestine",
+    "definition": "Done or kept in secret, sometimes to conceal an illicit or improper purpose. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-cavalier",
+    "word": "cavalier",
+    "definition": "given to haughty disregard of others",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-compromise",
+    "word": "compromise",
+    "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-apologist",
+    "word": "apologist",
+    "definition": "(loosely) One who makes an apology. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-cloak",
+    "word": "cloak",
+    "definition": "A long outer garment worn over the shoulders covering the back; a cape, often with a hood. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-crestfallen",
+    "word": "crestfallen",
+    "definition": "brought low in spirit",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-cataclysmic",
+    "word": "cataclysmic",
+    "definition": "Of or pertaining to a cataclysm; causing great destruction or upheaval; catastrophic. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-attenuate",
+    "word": "attenuate",
+    "definition": "to weaken (in terms of intensity); to taper off/become thinner.",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-coin",
+    "word": "coin",
+    "definition": "(money) A piece of currency, usually metallic and in the shape of a disc, but sometimes polygonal, or with a hole in the middle. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-duplicitous",
+    "word": "duplicitous",
+    "definition": "Given to or marked by deliberate deceptiveness in behavior or speech. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-complacent",
+    "word": "complacent",
+    "definition": "contented to a fault with oneself or one's actions",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-distressed",
+    "word": "distressed",
+    "definition": "Anxious or uneasy. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-conciliatory",
+    "word": "conciliatory",
+    "definition": "making or willing to make consessions",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-astringent",
+    "word": "astringent",
+    "definition": "harsh; severe",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-consensus",
+    "word": "consensus",
+    "definition": "A process of decision-making that seeks widespread agreement among group members. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-curtail",
+    "word": "curtail",
+    "definition": "(transitive, obsolete) To cut short the tail of (an animal). ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-circumscribe",
+    "word": "circumscribe",
+    "definition": "restrict or confine",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-augment",
+    "word": "augment",
+    "definition": "enlarge or increase; improve",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-cunning",
+    "word": "cunning",
+    "definition": "Sly; crafty; clever in surreptitious behaviour. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-expedient",
+    "word": "expedient",
+    "definition": "Suitable to effect some desired end or the purpose intended. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-cumbersome",
+    "word": "cumbersome",
+    "definition": "difficult to handle or use especially because of size or weight",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-dwindling",
+    "word": "dwindling",
+    "definition": "declining; growing less ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-countenance",
+    "word": "countenance",
+    "definition": "Appearance, especially the features and expression of the face. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-collaborate",
+    "word": "collaborate",
+    "definition": "To work together with others to achieve a common goal. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-distort",
+    "word": "distort",
+    "definition": "(transitive) To bring something out of shape, to misshape. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-elucidate",
+    "word": "elucidate",
+    "definition": "make clearer and easier to understand",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-complementary",
+    "word": "complementary",
+    "definition": "enhancing each other's qualities (for two things or more).",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-aversion",
+    "word": "aversion",
+    "definition": "Opposition or repugnance of mind; fixed dislike often without any conscious reasoning. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-discomfit",
+    "word": "discomfit",
+    "definition": "(transitive) To embarrass (someone) greatly; to confuse; to perplex; to disconcert. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-fabricate",
+    "word": "fabricate",
+    "definition": "(transitive) To form into a whole by uniting its parts; to construct; to build. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-debilitating",
+    "word": "debilitating",
+    "definition": "Causing a loss of energy or strength. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-eclipse",
+    "word": "eclipse",
+    "definition": "(astronomy) An alignment of astronomical objects whereby one object comes between the observer (or notional observer) and another object, thus obscuring the latter. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-covert",
+    "word": "covert",
+    "definition": "(figuratively) Secret, surreptitious, concealed. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-competent",
+    "word": "competent",
+    "definition": "Having sufficient skill, knowledge, ability, or qualifications. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-divergent",
+    "word": "divergent",
+    "definition": "Growing further apart; diverging. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-evade",
+    "word": "evade",
+    "definition": "(transitive) To get away from by cunning; to avoid by using dexterity, subterfuge, address, or ingenuity; to cleverly escape from ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-contentious",
+    "word": "contentious",
+    "definition": "likely to argue",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-blithe",
+    "word": "blithe",
+    "definition": "Casually careless or indifferent; showing a lack of concern; nonchalant. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-dissent",
+    "word": "dissent",
+    "definition": "(intransitive) To disagree; to withhold assent. Construed with from (or, formerly, to). ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-glum",
+    "word": "glum",
+    "definition": "Despondent; moody; sullen. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-deliberate",
+    "word": "deliberate",
+    "definition": "think about carefully; weigh the pros and cons of an issue",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-encyclopedic",
+    "word": "encyclopedic",
+    "definition": "Of or relating to the characteristics of an encyclopedia; concerning all subjects, having comprehensive information or knowledge. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-credible",
+    "word": "credible",
+    "definition": "convincing",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-correlate",
+    "word": "correlate",
+    "definition": "(transitive) To compare things and bring them into a relation having corresponding characteristics. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-elated",
+    "word": "elated",
+    "definition": "Extremely happy and excited; delighted; pleased, euphoric. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-feckless",
+    "word": "feckless",
+    "definition": "lazy and irresponsible",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-disingenuous",
+    "word": "disingenuous",
+    "definition": "not straightforward; giving a false appearance of frankness",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-contempt",
+    "word": "contempt",
+    "definition": "(uncountable) The state or act of contemning; the feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn, disdain. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-distill",
+    "word": "distill",
+    "definition": "undergo condensation; change from a gaseous to a liquid and fall in drops",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-harbinger",
+    "word": "harbinger",
+    "definition": "a person or thing that announces or signals the approach of another",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-droll",
+    "word": "droll",
+    "definition": "Oddly humorous; whimsical, amusing in a quaint way; waggish. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-exacerbate",
+    "word": "exacerbate",
+    "definition": "make worse",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-diffuse",
+    "word": "diffuse",
+    "definition": "spread out; not concentrated in one place",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-deride",
+    "word": "deride",
+    "definition": "treat or speak of with contempt",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-enchant",
+    "word": "enchant",
+    "definition": "To attract and delight, to charm. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-fester",
+    "word": "fester",
+    "definition": "(pathology, obsolete) A fistula. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-divulge",
+    "word": "divulge",
+    "definition": "(transitive) To make public or known; to communicate to the public; to tell (information, especially a secret) so that it may become generally known. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-dawdle",
+    "word": "dawdle",
+    "definition": "(transitive) Chiefly followed by away: to spend (time) without haste or purpose. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-dubious",
+    "word": "dubious",
+    "definition": "(of a statement, matter, or thing) Arousing doubt; questionable; open to suspicion. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-intrinsic",
+    "word": "intrinsic",
+    "definition": "Innate, inherent, inseparable from the thing itself, essential. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-eccentric",
+    "word": "eccentric",
+    "definition": "highly unconventional or unusual (usually describes a person)",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-exasperated",
+    "word": "exasperated",
+    "definition": "Having one's patience greatly taxed; greatly annoyed; made furious. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-documentary",
+    "word": "documentary",
+    "definition": "Of, related to, or based on documents. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-dictate",
+    "word": "dictate",
+    "definition": "An order or command. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-entrenched",
+    "word": "entrenched",
+    "definition": "fixed firmly or securely",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-iconoclastic",
+    "word": "iconoclastic",
+    "definition": "defying tradition or convention",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-dogmatic",
+    "word": "dogmatic",
+    "definition": "highly opinionated, not accepting that your belief may not be correct",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-deflect",
+    "word": "deflect",
+    "definition": "(transitive) To make (something) deviate from its original path or position. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-ebullient",
+    "word": "ebullient",
+    "definition": "joyously unrestrained",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-largesse",
+    "word": "largesse",
+    "definition": "(uncountable) ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-fractious",
+    "word": "fractious",
+    "definition": "irritable and is likely to cause disruption",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-fungible",
+    "word": "fungible",
+    "definition": "(originally finance and commerce) Able to be substituted for something of equal value or utility. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-exhaustive",
+    "word": "exhaustive",
+    "definition": "Including every possible element: fully comprehensive. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-discreet",
+    "word": "discreet",
+    "definition": "careful to protect one's speech or actions in order to avoid offense or gain an advantage",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-exotic",
+    "word": "exotic",
+    "definition": "Foreign, especially in an exciting way. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-immure",
+    "word": "immure",
+    "definition": "to enclose, usually in walls",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-fallacious",
+    "word": "fallacious",
+    "definition": "of a belief that is based on faulty reasoning",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-discount",
+    "word": "discount",
+    "definition": "(transitive) ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-facetious",
+    "word": "facetious",
+    "definition": "cleverly amusing in tone",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-libertine",
+    "word": "libertine",
+    "definition": "(historical) Someone freed from slavery in Ancient Rome; a freedman. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-limpid",
+    "word": "limpid",
+    "definition": "clarity in terms of expression",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-hackneyed",
+    "word": "hackneyed",
+    "definition": "lacking significance through having been overused",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-exhilarating",
+    "word": "exhilarating",
+    "definition": "Refreshingly thrilling. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-divorced",
+    "word": "divorced",
+    "definition": "Cut off, or separated. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-exploitative",
+    "word": "exploitative",
+    "definition": "In the nature of exploitation; acting to exploit someone or something ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-improvise",
+    "word": "improvise",
+    "definition": "To make something up or invent it as one goes on; to proceed guided only by imagination, intuition, and guesswork rather than by a careful plan. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-foolhardy",
+    "word": "foolhardy",
+    "definition": "marked by defiant disregard for danger or consequences",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-dissident",
+    "word": "dissident",
+    "definition": "In a manner that disagrees; dissenting; discordant. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-fallible",
+    "word": "fallible",
+    "definition": "Capable of making mistakes or being wrong. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-malfeasance",
+    "word": "malfeasance",
+    "definition": "misconduct or wrongdoing (especially by a public official)",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-mawkish",
+    "word": "mawkish",
+    "definition": "overly sentimental to the point that it is disgusting",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-incongruous",
+    "word": "incongruous",
+    "definition": "lacking in harmony or compatibility or appropriateness",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-extraneous",
+    "word": "extraneous",
+    "definition": "Not belonging to, or dependent upon, a thing; without or beyond a thing; foreign. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-elitist",
+    "word": "elitist",
+    "definition": "Of or relating to elitism. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-foreseeable",
+    "word": "foreseeable",
+    "definition": "able to be foreseen or anticipated ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-inhibit",
+    "word": "inhibit",
+    "definition": "(transitive) To hold in or hold back; to keep in check; restrain. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-hinder",
+    "word": "hinder",
+    "definition": "(transitive) To make difficult to accomplish; to act as an obstacle; to frustrate. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-efficacious",
+    "word": "efficacious",
+    "definition": "producing the intended result",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-florid",
+    "word": "florid",
+    "definition": "Having a rosy or pale red colour; ruddy. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-manifest",
+    "word": "manifest",
+    "definition": "Evident to the senses, especially to the sight; apparent; distinctly perceived. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-obeisance",
+    "word": "obeisance",
+    "definition": "Demonstration of an obedient attitude, especially by bowing deeply; a deep bow which demonstrates such an attitude. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-interchangeable",
+    "word": "interchangeable",
+    "definition": "Freely substitutable; that may be swapped at will. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-fervor",
+    "word": "fervor",
+    "definition": "(American spelling) An intense, heated emotion; passion, ardor. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-exacting",
+    "word": "exacting",
+    "definition": "requiring and demanding accuracy",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-forsake",
+    "word": "forsake",
+    "definition": "(transitive) To abandon, to give up, to leave (permanently), to renounce (someone or something). ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-inscrutable",
+    "word": "inscrutable",
+    "definition": "not easily understood; unfathomable",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-impair",
+    "word": "impair",
+    "definition": "weaken or damage(especially human function or facility)",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-equitable",
+    "word": "equitable",
+    "definition": "fair to all parties as dictated by reason and conscience",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-gawky",
+    "word": "gawky",
+    "definition": "Awkward, ungainly; lacking grace or dexterity in movement. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-minute",
+    "word": "minute",
+    "definition": "A unit of time which is one sixtieth of an hour (sixty seconds). ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-ostentatious",
+    "word": "ostentatious",
+    "definition": "intended to attract notice and impress others; tawdry or vulgar",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-laconic",
+    "word": "laconic",
+    "definition": "one who says very few words",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-futile",
+    "word": "futile",
+    "definition": "producing no result or effect; unproductive of success",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-flummoxed",
+    "word": "flummoxed",
+    "definition": "Confused, perplexed or flustered. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-gratify",
+    "word": "gratify",
+    "definition": "(transitive) To please. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-lionize",
+    "word": "lionize",
+    "definition": "assign great social importance to",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-impugn",
+    "word": "impugn",
+    "definition": "attack as false or wrong",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-erratic",
+    "word": "erratic",
+    "definition": "unpredictable; strange and unconventional",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-inveigle",
+    "word": "inveigle",
+    "definition": "persuade someone to do something by means of deception or flattery",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-modish",
+    "word": "modish",
+    "definition": "Conforming with fashion or style. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-panacea",
+    "word": "panacea",
+    "definition": "hypothetical remedy for all ills or diseases; a universal solution",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-lucrative",
+    "word": "lucrative",
+    "definition": "Producing a surplus; profitable. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-illusory",
+    "word": "illusory",
+    "definition": "Resulting from an illusion; deceptive, imaginary, unreal. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-fruitful",
+    "word": "fruitful",
+    "definition": "Favourable to the growth of fruit or useful vegetation; not barren. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-heed",
+    "word": "heed",
+    "definition": "Careful attention. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-monotonous",
+    "word": "monotonous",
+    "definition": "Having an unvarying pitch or tone. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-incessant",
+    "word": "incessant",
+    "definition": "uninterrupted in time and indefinitely long continuing",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-industrious",
+    "word": "industrious",
+    "definition": "characterized by hard work and perseverance",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-jettison",
+    "word": "jettison",
+    "definition": "(uncountable, collective) Items that have been or are about to be ejected from a boat or balloon. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-nascent",
+    "word": "nascent",
+    "definition": "Emerging; just coming into existence. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-perfunctory",
+    "word": "perfunctory",
+    "definition": "done routinely and with little interest or care",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-magisterial",
+    "word": "magisterial",
+    "definition": "offensively self-assured or given to exercising unwarranted power",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-invidious",
+    "word": "invidious",
+    "definition": "likely to cause resentment",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-inborn",
+    "word": "inborn",
+    "definition": "Innate, possessed by an organism at birth. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-judicious",
+    "word": "judicious",
+    "definition": "Having, characterized by, or done with good judgment or sound thinking. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-peculiar",
+    "word": "peculiar",
+    "definition": "Out of the ordinary; odd; strange; unusual. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-inclined",
+    "word": "inclined",
+    "definition": "At an angle to the horizontal; slanted or sloped. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-inform",
+    "word": "inform",
+    "definition": "(archaic, transitive) To instruct, train (usually in matters of knowledge). ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-mendacity",
+    "word": "mendacity",
+    "definition": "the tendency to be untruthful",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-perennial",
+    "word": "perennial",
+    "definition": "lasting an indefinitely long time; eternal; everlasting",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-perilous",
+    "word": "perilous",
+    "definition": "faughty with danger",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-onerous",
+    "word": "onerous",
+    "definition": "not easily borne; wearing",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-lethargic",
+    "word": "lethargic",
+    "definition": "lacking energy",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-polymath",
+    "word": "polymath",
+    "definition": "A person with extraordinarily broad and comprehensive knowledge. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-lucid",
+    "word": "lucid",
+    "definition": "(of language) transparently clear; easily understandable",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-premeditate",
+    "word": "premeditate",
+    "definition": "(ambitransitive) To meditate, consider, or plan beforehand; to think about and revolve in the mind beforehand. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-inveterate",
+    "word": "inveterate",
+    "definition": "habitual",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-irksome",
+    "word": "irksome",
+    "definition": "annoying and tiresome",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-munificent",
+    "word": "munificent",
+    "definition": "very generous",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-pious",
+    "word": "pious",
+    "definition": "devoutly religious",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-pervasive",
+    "word": "pervasive",
+    "definition": "spreading or spread throughout",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-opprobrium",
+    "word": "opprobrium",
+    "definition": "a state of extreme dishonour",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-metaphorical",
+    "word": "metaphorical",
+    "definition": "Pertaining to or characterized by a metaphor; figurative; symbolic. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-reticent",
+    "word": "reticent",
+    "definition": "reluctant to draw attention to yourself; temperamentally disinclined to talk",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-pertinent",
+    "word": "pertinent",
+    "definition": "having precise or logical relevance to the matter at hand",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-profligate",
+    "word": "profligate",
+    "definition": "spending resources recklessly or wastefully",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-miserly",
+    "word": "miserly",
+    "definition": "Like a miser, very or objectionably cautious with money. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-manacle",
+    "word": "manacle",
+    "definition": "A shackle for the wrist, usually consisting of a pair of joined rings; a handcuff; (by extension) a similar device put around an ankle to restrict free movement. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-naive",
+    "word": "naive",
+    "definition": "Lacking worldly experience, wisdom, or judgement; unsophisticated. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-providential",
+    "word": "providential",
+    "definition": "Pertaining to divine providence. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-preclude",
+    "word": "preclude",
+    "definition": "keep from happening or arising; make impossible",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-parsimonious",
+    "word": "parsimonious",
+    "definition": "extremely frugal; miserly",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-mimic",
+    "word": "mimic",
+    "definition": "(transitive) To imitate, especially in order to ridicule. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-stringent",
+    "word": "stringent",
+    "definition": "demanding strict attention to rules and procedures",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-propriety",
+    "word": "propriety",
+    "definition": "correct or appropriate behaviour",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-reconcile",
+    "word": "reconcile",
+    "definition": "make (one thing) compatible with (another)",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-patent",
+    "word": "patent",
+    "definition": "glaringly obvious",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-modest",
+    "word": "modest",
+    "definition": "very successful but does not call attention to that",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-noble",
+    "word": "noble",
+    "definition": "An aristocrat; one of aristocratic blood. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-prowess",
+    "word": "prowess",
+    "definition": "(uncountable) Skillfulness or extraordinary ability in a particular area of expertise; dexterity, mastery, or proficiency. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-predilection",
+    "word": "predilection",
+    "definition": "a strong liking",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-peripheral",
+    "word": "peripheral",
+    "definition": "On the periphery or boundary. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-numinous",
+    "word": "numinous",
+    "definition": "Of or relating to a numen (divinity); indicating the presence of a divinity. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-subservient",
+    "word": "subservient",
+    "definition": "Useful in an inferior capacity. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-scintillating",
+    "word": "scintillating",
+    "definition": "describes someone who is brilliant and lively",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-refine",
+    "word": "refine",
+    "definition": "(transitive) To purify; reduce to a fine, unmixed, or pure state; to free from impurities. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-petulant",
+    "word": "petulant",
+    "definition": "easily irritated or annoyed",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-noxious",
+    "word": "noxious",
+    "definition": "Harmful; injurious. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-parochial",
+    "word": "parochial",
+    "definition": "narrowly restricted in scope or outlook",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-schism",
+    "word": "schism",
+    "definition": "A split or separation within a group or organization, typically caused by discord. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-rapacious",
+    "word": "rapacious",
+    "definition": "(also figurative) Voracious; avaricious. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-provocative",
+    "word": "provocative",
+    "definition": "Serving or tending to elicit a strong, often negative sentiment in another person; exasperating. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-obscure",
+    "word": "obscure",
+    "definition": "make unclear",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-surreptitious",
+    "word": "surreptitious",
+    "definition": "stealthy, taking pains not to be caught or detected",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-sensational",
+    "word": "sensational",
+    "definition": "Of or pertaining to sensation. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-relinquish",
+    "word": "relinquish",
+    "definition": "To give up, abandon or retire from something. To trade away.",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-pithy",
+    "word": "pithy",
+    "definition": "concise and full of meaning",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-pernicious",
+    "word": "pernicious",
+    "definition": "exceedingly harmful; working or spreading in a hidden and injurious way",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-pedestrian",
+    "word": "pedestrian",
+    "definition": "lacking imagination",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-slander",
+    "word": "slander",
+    "definition": "A false or unsupported, malicious statement (spoken, not written), especially one which is injurious to a person's reputation; the making of such a statement.",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-relish",
+    "word": "relish",
+    "definition": "A pleasant taste",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-renounce",
+    "word": "renounce",
+    "definition": "An act of renouncing.",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-overt",
+    "word": "overt",
+    "definition": "Open and not concealed or secret.",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-tantalizing",
+    "word": "tantalizing",
+    "definition": "To tease (someone) by offering something desirable but keeping it out of reach",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-sophisticated",
+    "word": "sophisticated",
+    "definition": "To make less natural or innocent.",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-ruminate",
+    "word": "ruminate",
+    "definition": "To chew cud. (Said of ruminants.) Involves regurgitating partially digested food from the rumen.",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-pliant",
+    "word": "pliant",
+    "definition": "Capable of plying or bending; readily yielding to force or pressure without breaking",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-predicament",
+    "word": "predicament",
+    "definition": "A definite class, state or condition.",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-prevaricate",
+    "word": "prevaricate",
+    "definition": "to speak in an evasive way",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-stalwart",
+    "word": "stalwart",
+    "definition": "dependable; inured to fatigue or hardships",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-satirical",
+    "word": "satirical",
+    "definition": "Of, pertaining to or connected with satire",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-tempestuous",
+    "word": "tempestuous",
+    "definition": "as if driven by turbulent or conflicting emotions; highly energetic and wildly changing or fluctuating",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-pellucid",
+    "word": "pellucid",
+    "definition": "transparently clear; easily understandable",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-tantamount",
+    "word": "tantamount",
+    "definition": "being essentially equal to something",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-strife",
+    "word": "strife",
+    "definition": "Striving; earnest endeavor; hard work.",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-skittish",
+    "word": "skittish",
+    "definition": "nervous or excitable; easily scared",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-sanctimonious",
+    "word": "sanctimonious",
+    "definition": "making a show of being pious; holier-than-thou",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-proficient",
+    "word": "proficient",
+    "definition": "An expert.",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-prime",
+    "word": "prime",
+    "definition": "The first hour of daylight; the first canonical hour.",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-supplicate",
+    "word": "supplicate",
+    "definition": "To humble oneself before (another) in making a request; to beg or beseech.",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-sham",
+    "word": "sham",
+    "definition": "A fake; an imitation that purports to be genuine.",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-tenable",
+    "word": "tenable",
+    "definition": "(of a theory, argument, etc.) capable of being maintained or justified; well-founded",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-perpetuate",
+    "word": "perpetuate",
+    "definition": "cause to continue",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-torpor",
+    "word": "torpor",
+    "definition": "inactivity resulting from lethargy and lack of vigor or energy",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-understated",
+    "word": "understated",
+    "definition": "To state (something) with less completeness than needed; to minimise or downplay.",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-superfluous",
+    "word": "superfluous",
+    "definition": "serving no useful purpose",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-sound",
+    "word": "sound",
+    "definition": "Healthy.",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-prolix",
+    "word": "prolix",
+    "definition": "tediously prolong or tending to speak or write at a length",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-radical",
+    "word": "radical",
+    "definition": "(historical: 19th-century Britain) A member of the most progressive wing of the Liberal Party; someone favouring social reform (but generally stopping short of socialism).",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-terse",
+    "word": "terse",
+    "definition": "sparing in use of words",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-skirt",
+    "word": "skirt",
+    "definition": "An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body. ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-transgression",
+    "word": "transgression",
+    "definition": "the process of transgressing; violation of a law or a duty or moral principle",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-rational",
+    "word": "rational",
+    "definition": "Capable of reasoning. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-trenchant",
+    "word": "trenchant",
+    "definition": "characterized by or full of force and vigor; having keenness and forcefulness and penetration in thought, expression, or intellect",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-unscrupulous",
+    "word": "unscrupulous",
+    "definition": "without scruples or principles",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-synoptic",
+    "word": "synoptic",
+    "definition": "Of or relating to a synopsis. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-tarnish",
+    "word": "tarnish",
+    "definition": "make dirty or spotty, as by exposure to air; also used metaphorically",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-scorn",
+    "word": "scorn",
+    "definition": "(transitive) To feel or display contempt or disdain for something or somebody; to despise. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-recrudescent",
+    "word": "recrudescent",
+    "definition": "Breaking out again or reemerging after temporary abatement or suppression. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-tirade",
+    "word": "tirade",
+    "definition": "an angry speech",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-sluggish",
+    "word": "sluggish",
+    "definition": "Habitually idle and lazy; slothful; dull; inactive ",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-urbane",
+    "word": "urbane",
+    "definition": "showing a high degree of refinement and the assurance that comes from wide social experience",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-scathing",
+    "word": "scathing",
+    "definition": "Harshly or bitterly critical; vitriolic. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-umbrage",
+    "word": "umbrage",
+    "definition": "a feeling of anger caused by being offended",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-veracity",
+    "word": "veracity",
+    "definition": "conformity to or following what is currently popular and fashionable",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-thorough",
+    "word": "thorough",
+    "definition": "Painstaking and careful not to miss or omit any detail. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-tepid",
+    "word": "tepid",
+    "definition": "moderately warm",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-subordinate",
+    "word": "subordinate",
+    "definition": "Placed in a lower class, rank, or position. ",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-temporal",
+    "word": "temporal",
+    "definition": "(relational) Of or relating to the material world, as opposed to sacred or clerical. ",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-universal",
+    "word": "universal",
+    "definition": "Of or pertaining to the universe. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-spartan",
+    "word": "spartan",
+    "definition": "unsparing and uncompromising in discipline or judgment; practicing great self-denial",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-verisimilitude",
+    "word": "verisimilitude",
+    "definition": "the appearance of truth",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-subtle",
+    "word": "subtle",
+    "definition": "Hard to grasp; not obvious or easily understood. ",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-versatile",
+    "word": "versatile",
+    "definition": "Capable of doing many things competently. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-virulent",
+    "word": "virulent",
+    "definition": "Of animals, plants, or substances: extremely venomous or poisonous. ",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-visionary",
+    "word": "visionary",
+    "definition": "Having vision or foresight. ",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-upbraid",
+    "word": "upbraid",
+    "definition": "to reproach; to scold",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-unseemly",
+    "word": "unseemly",
+    "definition": "not in keeping with accepted standards of what is right or proper in polite society",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-transitory",
+    "word": "transitory",
+    "definition": "lasting a very short time",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-vanquish",
+    "word": "vanquish",
+    "definition": "come out better in a competition, race, or conflict",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 11-truculent",
+    "word": "truculent",
+    "definition": "having a fierce, savage nature",
+    "group": "Group 11"
+  },
+  {
+    "id": "Group 12-vitiate",
+    "word": "vitiate",
+    "definition": "(transitive) To spoil, make faulty; to reduce the value, quality, or effectiveness of something. ",
+    "group": "Group 12"
+  },
+  {
+    "id": "Group 13-superficial",
+    "word": "superficial",
+    "definition": "at surface of something",
+    "group": "Group 13"
+  },
+  {
+    "id": "Group 14-wayward",
+    "word": "wayward",
+    "definition": "Given to wilful, perverse deviation from the expected norm; tending to stray. ",
+    "group": "Group 14"
+  },
+  {
+    "id": "Group 15-volatile",
+    "word": "volatile",
+    "definition": "a substance that changes readily from solid to liquid to vapour",
+    "group": "Group 15"
+  },
+  {
+    "id": "Group 16-vociferous",
+    "word": "vociferous",
+    "definition": "conspicuously and offensively loud; given to vehement outcry",
+    "group": "Group 16"
+  },
+  {
+    "id": "Group 17-vexation",
+    "word": "vexation",
+    "definition": "(uncountable) The action of vexing, annoying, or irritating someone or something; (countable) an instance of this. ",
+    "group": "Group 17"
+  },
+  {
+    "id": "Group 18-veritable",
+    "word": "veritable",
+    "definition": "truthfully, without a doubt",
+    "group": "Group 18"
+  },
+  {
+    "id": "Group 19-viable",
+    "word": "viable",
+    "definition": "capable of life or normal growth and development",
+    "group": "Group 19"
+  },
+  {
+    "id": "Group 20-woeful",
+    "word": "woeful",
+    "definition": "Full of woe; sorrowful; distressed with grief or calamity. ",
+    "group": "Group 20"
+  },
+  {
+    "id": "Group 21-abject",
+    "word": "abject",
+    "definition": "miserable; pitiful",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-arresting",
+    "word": "arresting",
+    "definition": "striking, gripping ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-allusive",
+    "word": "allusive",
+    "definition": "that contains or makes use of allusions (indirect references or hints) ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-assail",
+    "word": "assail",
+    "definition": "attack in speech or writing",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-adept",
+    "word": "adept",
+    "definition": "Well skilled; completely versed; thoroughly proficient ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-apprehension",
+    "word": "apprehension",
+    "definition": "fearful expectation",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-antagonize",
+    "word": "antagonize",
+    "definition": "(transitive) To work against; to oppose (especially to incite a reaction). ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-abeyance",
+    "word": "abeyance",
+    "definition": "temporary cessation or suspension",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-abscond",
+    "word": "abscond",
+    "definition": "run away; usually includes taking something or somebody alone",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-aberrant",
+    "word": "aberrant",
+    "definition": "markedly different from an accepted norm",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-amicable",
+    "word": "amicable",
+    "definition": "Showing friendliness or goodwill. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-chastise",
+    "word": "chastise",
+    "definition": "to reprimand harshly",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-astute",
+    "word": "astute",
+    "definition": "Quickly and critically discerning. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-benevolent",
+    "word": "benevolent",
+    "definition": "Having a disposition to do good. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-adverse",
+    "word": "adverse",
+    "definition": "Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-ardent",
+    "word": "ardent",
+    "definition": "Full of ardor; expressing passion, spirit, or enthusiasm. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-barren",
+    "word": "barren",
+    "definition": "(of people and animals, not comparable) Not bearing children, childless; hence also unable to bear children, sterile. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-abstract",
+    "word": "abstract",
+    "definition": "An abridgement or summary of a longer publication. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-apogee",
+    "word": "apogee",
+    "definition": "the highest point",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-abide",
+    "word": "abide",
+    "definition": "(transitive) To endure without yielding; to withstand. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-animosity",
+    "word": "animosity",
+    "definition": "intense hostility",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-cumbersome",
+    "word": "cumbersome",
+    "definition": "difficult to handle or use especially because of size or weight",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-commence",
+    "word": "commence",
+    "definition": "(intransitive) To begin, start. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-berate",
+    "word": "berate",
+    "definition": "(transitive) To chide or scold vehemently. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-appropriate",
+    "word": "appropriate",
+    "definition": "to give or take something by force",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-axiomatic",
+    "word": "axiomatic",
+    "definition": "taken for granted; self-evident truth",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-bombastic",
+    "word": "bombastic",
+    "definition": "ostentatiously lofty in style",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-affront",
+    "word": "affront",
+    "definition": "(transitive) To insult intentionally, especially openly. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-aspersion",
+    "word": "aspersion",
+    "definition": "slander; false rumor",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-bravado",
+    "word": "bravado",
+    "definition": "A swaggering show of defiance or courage. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-aver",
+    "word": "aver",
+    "definition": "to declare or to affirm solemnly and formally as true",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-economy",
+    "word": "economy",
+    "definition": "Effective management of a community or system, or especially its resources. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-convalescent",
+    "word": "convalescent",
+    "definition": "recovering one's health and strength after a period of illness ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-buoyant",
+    "word": "buoyant",
+    "definition": "Having buoyancy; able to float. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-archetype",
+    "word": "archetype",
+    "definition": "An original model of which all other similar concepts, objects, or persons are merely copied, derivative, emulated, or patterned; a prototype. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-cease",
+    "word": "cease",
+    "definition": "(formal, intransitive) To stop. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-cajole",
+    "word": "cajole",
+    "definition": "influnce or urge by gentle urging; caressing or flattering",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-agitate",
+    "word": "agitate",
+    "definition": "(transitive) To disturb or excite; to perturb or stir up (a person). ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-bawdy",
+    "word": "bawdy",
+    "definition": "obscene",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-callow",
+    "word": "callow",
+    "definition": "young and inexperienced",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-barrage",
+    "word": "barrage",
+    "definition": "An artificial obstruction, such as a dam, in a river designed to increase its depth or to divert its flow. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-elementary",
+    "word": "elementary",
+    "definition": "Relating to the basic, essential or fundamental part of something. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-curb",
+    "word": "curb",
+    "definition": "(American spelling, Canadian spelling) A concrete margin along the edge of a road; a kerb (UK, Australia, New Zealand) ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-buttress",
+    "word": "buttress",
+    "definition": "make stronger or defensible",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-articulate",
+    "word": "articulate",
+    "definition": "Clear; effective. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-conducive",
+    "word": "conducive",
+    "definition": "making a situation or outcome more likely to happen",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-chary",
+    "word": "chary",
+    "definition": "cautious, suspiciously reluctant to do something",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-august",
+    "word": "august",
+    "definition": "Awe-inspiring, majestic, noble, venerable. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-chagrin",
+    "word": "chagrin",
+    "definition": "strong feelings of embarrassment",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-capitulate",
+    "word": "capitulate",
+    "definition": "to surrender (usually under agreed conditions)",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-cathartic",
+    "word": "cathartic",
+    "definition": "Purgative; inducing mental or physical catharsis. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-embellish",
+    "word": "embellish",
+    "definition": "make more attractive by adding ornament, colour, etc.; make more beautiful",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-decry",
+    "word": "decry",
+    "definition": "express strong disapproval of",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-condone",
+    "word": "condone",
+    "definition": "excuse, overlook, or make allowances for; be lenient with",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-auspicious",
+    "word": "auspicious",
+    "definition": "favorable, the opposite of sinister",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-corporeal",
+    "word": "corporeal",
+    "definition": "Material; tangible; physical. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-curmudgeon",
+    "word": "curmudgeon",
+    "definition": "a grouchy, surly person",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-burnish",
+    "word": "burnish",
+    "definition": "polish and make shiny",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-collude",
+    "word": "collude",
+    "definition": "(intransitive) to act in concert with; to conspire ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-cogitate",
+    "word": "cogitate",
+    "definition": "(intransitive) To meditate, to ponder, to think deeply. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-decipher",
+    "word": "decipher",
+    "definition": "(transitive) To convert a code or cipher to plain text. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-euphoric",
+    "word": "euphoric",
+    "definition": "Feeling great well-being or elation or intense happiness; characterized by euphoria ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-duress",
+    "word": "duress",
+    "definition": "compulsory force or threat",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-contravene",
+    "word": "contravene",
+    "definition": "(transitive) To act contrary to an order; to fail to conform to a regulation or obligation. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-bereft",
+    "word": "bereft",
+    "definition": "unhappy in love; suffering from unrequited love",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-doctrinaire",
+    "word": "doctrinaire",
+    "definition": "A person who stubbornly holds to a philosophy or opinion regardless of its feasibility. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-dirge",
+    "word": "dirge",
+    "definition": "a song or hymn of mourning composed or performed as a memorial to a dead person",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-coy",
+    "word": "coy",
+    "definition": "(dated) Bashful, shy, retiring. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-commiserate",
+    "word": "commiserate",
+    "definition": "(obsolete, rare) commiserating, pitying, lamentful ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-deportment",
+    "word": "deportment",
+    "definition": "Bearing; manner of presenting oneself. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-delusion",
+    "word": "delusion",
+    "definition": "A false belief that is resistant to confrontation with actual facts. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-exonerate",
+    "word": "exonerate",
+    "definition": "pronounce not guilty of criminal charges",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-evoke",
+    "word": "evoke",
+    "definition": "(transitive) To call out; to draw out or bring forth. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-denounce",
+    "word": "denounce",
+    "definition": "(transitive, obsolete) To make known in a formal manner; to proclaim; to announce; to declare. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-captious",
+    "word": "captious",
+    "definition": "faultfinding; intended to entrap; as in argument",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-eclectic",
+    "word": "eclectic",
+    "definition": "comprised of a variety of styles",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-estimable",
+    "word": "estimable",
+    "definition": "deserving of esteem and respect",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-deprecate",
+    "word": "deprecate",
+    "definition": "(transitive) To express disapproval of, protest or plead against. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-conflagration",
+    "word": "conflagration",
+    "definition": "a very intense and uncontrolled fire",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-extemporize",
+    "word": "extemporize",
+    "definition": "(intransitive) To perform or speak without prior planning or thought; to act in an impromptu manner; to improvise. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-dispense",
+    "word": "dispense",
+    "definition": "To issue, distribute, or give out. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-extrapolate",
+    "word": "extrapolate",
+    "definition": "draw from specific cases for more general cases",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-fawn",
+    "word": "fawn",
+    "definition": "try to gain favor by extreme flattery",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-despotic",
+    "word": "despotic",
+    "definition": "Of or pertaining to a despot or tyrant. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-conclusive",
+    "word": "conclusive",
+    "definition": "Pertaining to a conclusion. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-equanimity",
+    "word": "equanimity",
+    "definition": "steadiness of mind under stress",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-euphemism",
+    "word": "euphemism",
+    "definition": "an inoffencive or indirect expression that is substituted for one that is considerd offencive or too harsh",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-disdain",
+    "word": "disdain",
+    "definition": "(uncountable) A feeling of contempt or scorn. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-contretemps",
+    "word": "contretemps",
+    "definition": "An unforeseen, inopportune, or embarrassing event. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-factious",
+    "word": "factious",
+    "definition": "produced by, or characterized by internal dissension",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-eloquent",
+    "word": "eloquent",
+    "definition": "Fluently persuasive and articulate. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-falter",
+    "word": "falter",
+    "definition": "An unsteadiness. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-fret",
+    "word": "fret",
+    "definition": "(transitive, obsolete or poetic) Especially when describing animals: to consume, devour, or eat. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-deviate",
+    "word": "deviate",
+    "definition": "(intransitive) To go off course from; to change course; to change plans. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-conspire",
+    "word": "conspire",
+    "definition": "(intransitive) To secretly plot or make plans together, often with the intention to bring bad or illegal results; to collude, to connive, to plot. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-exorbitant",
+    "word": "exorbitant",
+    "definition": "greatly exceeding bounds of reason or moderation",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-excoriate",
+    "word": "excoriate",
+    "definition": "to criticize very harshly",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-disperse",
+    "word": "disperse",
+    "definition": "(transitive, intransitive) To scatter in different directions. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-conviction",
+    "word": "conviction",
+    "definition": "(countable) A firmly held belief. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-fallow",
+    "word": "fallow",
+    "definition": "(agriculture, uncountable) Ground ploughed and harrowed but left unseeded for one year. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-enthrall",
+    "word": "enthrall",
+    "definition": "hold spellbound",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-fervent",
+    "word": "fervent",
+    "definition": "Exhibiting particular enthusiasm, zeal, conviction, persistence, and/or belief. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-glib",
+    "word": "glib",
+    "definition": "(of a person) speaking with ease but without sincerity",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-disinterested",
+    "word": "disinterested",
+    "definition": "unbiased; neutral",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-delineate",
+    "word": "delineate",
+    "definition": "describe in detail",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-fickle",
+    "word": "fickle",
+    "definition": "liable to sudden unpredictable change, esp. in affections or attachments",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-exigent",
+    "word": "exigent",
+    "definition": "Urgent; pressing; needing immediate action. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-distend",
+    "word": "distend",
+    "definition": "cause to expand as it by internal pressure",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-croon",
+    "word": "croon",
+    "definition": "(transitive) ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-feint",
+    "word": "feint",
+    "definition": "(often military) A movement made to confuse an opponent; a dummy. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-eradicate",
+    "word": "eradicate",
+    "definition": "to completely destroy",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-foment",
+    "word": "foment",
+    "definition": "try to stir up public opinion",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-headstrong",
+    "word": "headstrong",
+    "definition": "Determined to do as one pleases, and not as others want. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-escalate",
+    "word": "escalate",
+    "definition": "(ambitransitive) To increase (something) in extent or intensity; to intensify or step up. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-disentangle",
+    "word": "disentangle",
+    "definition": "(transitive) To free something from entanglement; to extricate or unknot. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-figurative",
+    "word": "figurative",
+    "definition": "Of use as a metaphor, simile, metonym or other figure of speech, as opposed to literal; using figures. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-haughty",
+    "word": "haughty",
+    "definition": "having or showing arrogant superiority to and disdain of those one views as unworthy",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-endemic",
+    "word": "endemic",
+    "definition": "native; originating where it is found",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-depose",
+    "word": "depose",
+    "definition": "(literally, transitive) To put down; to lay down; to deposit; to lay aside; to put away. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-flagrant",
+    "word": "flagrant",
+    "definition": "conspicuously or obviously offensive",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-fledgling",
+    "word": "fledgling",
+    "definition": "young bird that has just fledged or capable of flying",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-gaffe",
+    "word": "gaffe",
+    "definition": "a socially awkward or tactless act",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-intermittent",
+    "word": "intermittent",
+    "definition": "stopping and starting at irregular intervals",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-exorcise",
+    "word": "exorcise",
+    "definition": "(transitive) To drive out (an evil spirit) from a person, place or thing, especially by an incantation or prayer. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-exhort",
+    "word": "exhort",
+    "definition": "to strongly urge on; encourage",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-flustered",
+    "word": "flustered",
+    "definition": "Confused, befuddled, in a state of panic by having become overwrought with confusion. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-heady",
+    "word": "heady",
+    "definition": "Intoxicating or stupefying. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-enmity",
+    "word": "enmity",
+    "definition": "a state of deep-seated ill-will",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-detente",
+    "word": "detente",
+    "definition": "Alternative form of détente [(chiefly politics) A relaxing of tension, especially between countries.] ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-gratuitous",
+    "word": "gratuitous",
+    "definition": "Given freely; unearned. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-fortitude",
+    "word": "fortitude",
+    "definition": "Mental or emotional strength that enables courage in the face of adversity. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-heterodox",
+    "word": "heterodox",
+    "definition": "characterised by departure from accepted standards",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-ire",
+    "word": "ire",
+    "definition": "(obsolete) Iron. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-finicky",
+    "word": "finicky",
+    "definition": "(informal, of a person) Fastidious and fussy; difficult to please; exacting, especially about details. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-frailty",
+    "word": "frailty",
+    "definition": "(uncountable) The condition quality of being frail, physically, mentally, or morally; weakness of resolution; liability to be deceived. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-gullible",
+    "word": "gullible",
+    "definition": "naive and easily deceived or tricked",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-imperturbable",
+    "word": "imperturbable",
+    "definition": "not easily perturbed or excited or upset",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-gauche",
+    "word": "gauche",
+    "definition": "lacking social polish",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-dowdy",
+    "word": "dowdy",
+    "definition": "Plain and unfashionable in style or dress. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-grovel",
+    "word": "grovel",
+    "definition": "show submission or fear",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-fortuitous",
+    "word": "fortuitous",
+    "definition": "occurring by happy chance; having no cause or apparent cause",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-histrionic",
+    "word": "histrionic",
+    "definition": "to be overly theatrical",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-languid",
+    "word": "languid",
+    "definition": "not inclined towards physical exertion or effort; slow and relaxed",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-foil",
+    "word": "foil",
+    "definition": "(mnemonic) An acronym for the algorithm for multiplying two binomials. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-grievance",
+    "word": "grievance",
+    "definition": "(countable) Something which causes grief. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-idiosyncratic",
+    "word": "idiosyncratic",
+    "definition": "Peculiar to a specific individual; eccentric. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-implacable",
+    "word": "implacable",
+    "definition": "incapable of making less angry or hostile",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-hysterical",
+    "word": "hysterical",
+    "definition": "affected by or deriving from wildly uncontrolled emotion",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-echelon",
+    "word": "echelon",
+    "definition": "A level or rank in an organization, profession, or society. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-indecorous",
+    "word": "indecorous",
+    "definition": "not in keeping with accepted standards of what is right or proper in polite society",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-goad",
+    "word": "goad",
+    "definition": "urge on with unpleasant comments",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-implicit",
+    "word": "implicit",
+    "definition": "implied through not directly expressed; inherent in the nature of something",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-lull",
+    "word": "lull",
+    "definition": "make calm or still",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-intertwined",
+    "word": "intertwined",
+    "definition": "(literal) Twined or twisted together; entwined. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-harangue",
+    "word": "harangue",
+    "definition": "a long pompous speech; a tirade",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-incidental",
+    "word": "incidental",
+    "definition": "Loosely associated; of limited relevance except indirectly; only accidentally related. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-lambaste",
+    "word": "lambaste",
+    "definition": "To scold, reprimand or criticize harshly. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-impudent",
+    "word": "impudent",
+    "definition": "improperly forward or bold",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-ennui",
+    "word": "ennui",
+    "definition": "A gripping listlessness or melancholia caused by boredom; depression. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-intrigue",
+    "word": "intrigue",
+    "definition": "A complicated or clandestine plot or scheme intended to effect some purpose by secret artifice; conspiracy; stratagem. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-imminent",
+    "word": "imminent",
+    "definition": "About to happen, occur, or take place very soon, especially of something which won't last long. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-inviolate",
+    "word": "inviolate",
+    "definition": "must be kept sacred",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-mettlesome",
+    "word": "mettlesome",
+    "definition": "filled with courage or valor",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-inundate",
+    "word": "inundate",
+    "definition": "to flood or overwhelm",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-ploy",
+    "word": "ploy",
+    "definition": "a clever plan to turn a situation to one's advantage",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-ingrained",
+    "word": "ingrained",
+    "definition": "Being an element; present in the essence of a thing ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-miscreant",
+    "word": "miscreant",
+    "definition": "a person who breaks the law",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-inchoate",
+    "word": "inchoate",
+    "definition": "only partly in existence; imperfectly formed",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-expatiate",
+    "word": "expatiate",
+    "definition": "To write or speak at length; to be copious in argument or discussion. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-nominal",
+    "word": "nominal",
+    "definition": "Of, resembling, relating to, or consisting of a name or names. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-incontrovertible",
+    "word": "incontrovertible",
+    "definition": "necessarily or demonstrably true; impossible to deny or disprove",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-liability",
+    "word": "liability",
+    "definition": "An obligation, debt or responsibility owed to someone. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-mollify",
+    "word": "mollify",
+    "definition": "to make someone angry less angry; placate",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-ironclad",
+    "word": "ironclad",
+    "definition": "Covered with iron, steel, or (loosely) any other tough metal; armor-plated. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-poise",
+    "word": "poise",
+    "definition": "A state of balance, equilibrium or stability. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-insolent",
+    "word": "insolent",
+    "definition": "rude and arrogant",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-peccadillo",
+    "word": "peccadillo",
+    "definition": "A small flaw or sin. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-penchant",
+    "word": "penchant",
+    "definition": "a strong liking",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-fraught",
+    "word": "fraught",
+    "definition": "(nautical) ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-obdurate",
+    "word": "obdurate",
+    "definition": "unable to be persuaded or moved emotionally; stubborn; unyielding.",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-itinerant",
+    "word": "itinerant",
+    "definition": "traveling from place to place to work",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-obstinate",
+    "word": "obstinate",
+    "definition": "resistant to guidance or discipline; stubbornly persistent",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-neutralize",
+    "word": "neutralize",
+    "definition": "(transitive) To make even, inactive or ineffective. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-jeopardize",
+    "word": "jeopardize",
+    "definition": "(US) To put in jeopardy, to threaten. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-pomposity",
+    "word": "pomposity",
+    "definition": "The quality of being pompous; self-importance. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-lampoon",
+    "word": "lampoon",
+    "definition": "ridicule with satire",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-philistine",
+    "word": "philistine",
+    "definition": "smug and ignorant towards artistic and cultural values",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-quandary",
+    "word": "quandary",
+    "definition": "state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-fulcrum",
+    "word": "fulcrum",
+    "definition": "(mechanics) The support about which a lever pivots. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-obstreperous",
+    "word": "obstreperous",
+    "definition": "noisily and stubbornly defiant; willfully difficult to control",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-magnanimous",
+    "word": "magnanimous",
+    "definition": "noble and generous in spirit, especially towards a rival or someone less powerful",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-painstaking",
+    "word": "painstaking",
+    "definition": "Carefully attentive to details; studious; diligent in performing a process or procedure. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-nonplussed",
+    "word": "nonplussed",
+    "definition": "unsure how to act or respond",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-mercurial",
+    "word": "mercurial",
+    "definition": "(of a person) prone to unexpected and unpredictable changes in mood",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-proxy",
+    "word": "proxy",
+    "definition": "Used as a proxy or acting as a proxy. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-lavish",
+    "word": "lavish",
+    "definition": "Expending or bestowing profusely; profuse; prodigal. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-relegate",
+    "word": "relegate",
+    "definition": "assign to a lower position",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-quarantine",
+    "word": "quarantine",
+    "definition": "A period of 40 days, particularly ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-imbroglio",
+    "word": "imbroglio",
+    "definition": "a confusing and potentially embarrassing situation",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-odious",
+    "word": "odious",
+    "definition": "Arousing or meriting strong dislike, aversion, or intense displeasure. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-meritorious",
+    "word": "meritorious",
+    "definition": "Deserving of merit or commendation; deserving reward. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-phlegmatic",
+    "word": "phlegmatic",
+    "definition": "showing little emotion",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-precipitous",
+    "word": "precipitous",
+    "definition": "done with very great haste and without due deliberation",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-oblivious",
+    "word": "oblivious",
+    "definition": "(usually followed by to or of) Lacking awareness; unmindful; unaware, unconscious of. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-relent",
+    "word": "relent",
+    "definition": "Stay; stop; delay. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-lugubrious",
+    "word": "lugubrious",
+    "definition": "excessively mournful",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-repugnant",
+    "word": "repugnant",
+    "definition": "Offensive or repulsive; arousing disgust or aversion. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-quash",
+    "word": "quash",
+    "definition": "To defeat decisively, to suppress. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-jocund",
+    "word": "jocund",
+    "definition": "Jovial; exuberant; lighthearted; merry and in high spirits; exhibiting happiness. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-plucky",
+    "word": "plucky",
+    "definition": "marked by courage and determination",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-mutiny",
+    "word": "mutiny",
+    "definition": "An organized rebellion against a legally constituted authority, especially by seamen against their officers. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-prodigious",
+    "word": "prodigious",
+    "definition": "so great in size or force or extent as to elicit awe",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-pretentious",
+    "word": "pretentious",
+    "definition": "Motivated by an inappropriate, excessive, or unjustified desire to impress others. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-perpetrate",
+    "word": "perpetrate",
+    "definition": "(transitive) To be guilty of, or responsible for a crime etc; to commit. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-rhetoric",
+    "word": "rhetoric",
+    "definition": "art of effective or persuasive speaking or writing",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-macabre",
+    "word": "macabre",
+    "definition": "suggesting the horror of death and decay; gruesome",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-sentimental",
+    "word": "sentimental",
+    "definition": "effusively or insincerely emotional, especially in art, music, and literature",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-quibble",
+    "word": "quibble",
+    "definition": "evade the truth of a point or question by raising irrelevant objections",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-languish",
+    "word": "languish",
+    "definition": "become feeble",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-precocious",
+    "word": "precocious",
+    "definition": "characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-paradoxical",
+    "word": "paradoxical",
+    "definition": "seemingly contradictory but nonetheless possibly true",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-propensity",
+    "word": "propensity",
+    "definition": "a natural inclination",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-profound",
+    "word": "profound",
+    "definition": "situated at or extending to great depth; too deep to have been sounded or plumbed",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-plaintive",
+    "word": "plaintive",
+    "definition": "Sounding sorrowful, mournful or melancholic. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-rigor",
+    "word": "rigor",
+    "definition": "(medicine) A feeling of cold with shivering accompanied by a rise in body temperature. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-morose",
+    "word": "morose",
+    "definition": "ill-tempered and not inclined to talk; gloomy",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-squander",
+    "word": "squander",
+    "definition": "spend thoughtlessly; waste time, money, or an opportunity",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-ravage",
+    "word": "ravage",
+    "definition": "(transitive) To devastate, destroy or lay waste to something. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-nadir",
+    "word": "nadir",
+    "definition": "the lowest point",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-remuneration",
+    "word": "remuneration",
+    "definition": "Something given in exchange for goods or services rendered. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-perseverance",
+    "word": "perseverance",
+    "definition": "Continuing in a course of action without regard to discouragement, opposition or previous failure. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-qualm",
+    "word": "qualm",
+    "definition": "uneasiness about the fitness of an action",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-propagate",
+    "word": "propagate",
+    "definition": "(transitive, of animals or plants) To cause to continue or multiply by generation, or successive production. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-poignant",
+    "word": "poignant",
+    "definition": "emotionally touching",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-sparse",
+    "word": "sparse",
+    "definition": "Having widely spaced intervals. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-officious",
+    "word": "officious",
+    "definition": "intrusive in a meddling or offensive manner",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-swindle",
+    "word": "swindle",
+    "definition": "(transitive) To defraud. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-recant",
+    "word": "recant",
+    "definition": "formally reject or disavow a formerly held belief usually under pressure",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-nimble",
+    "word": "nimble",
+    "definition": "Adept at taking or grasping. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-slovenly",
+    "word": "slovenly",
+    "definition": "Having an untidy appearance; unkempt. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-render",
+    "word": "render",
+    "definition": "(ditransitive) To cause to become. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-renege",
+    "word": "renege",
+    "definition": "fail to fulfill a promise or obligation",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-recourse",
+    "word": "recourse",
+    "definition": "The act of seeking assistance or advice. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-quiescent",
+    "word": "quiescent",
+    "definition": "being quite or still or inactive",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-steadfast",
+    "word": "steadfast",
+    "definition": "marked by firm determination or resolution; not shakable",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-ramification",
+    "word": "ramification",
+    "definition": "(botany, anatomy, also figurative) A branching-out, the act or result of developing branches; specifically the divergence of the stem and limbs of a plant into smaller ones, or of similar developments in blood vessels, anatomical structures etc. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-tangible",
+    "word": "tangible",
+    "definition": "Touchable; able to be touched or felt; perceptible by the sense of touch. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-redoubtable",
+    "word": "redoubtable",
+    "definition": "inspiring fear or awe",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-ominous",
+    "word": "ominous",
+    "definition": "Of or pertaining to an omen or to omens; being or exhibiting an omen; significant. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-soliloquy",
+    "word": "soliloquy",
+    "definition": "(drama) The act of a character speaking to themselves so as to reveal their thoughts to the audience. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-repertoire",
+    "word": "repertoire",
+    "definition": "A list of dramas, operas, pieces, parts, etc., which a company or a person has rehearsed and is prepared to perform or display. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-stinting",
+    "word": "stinting",
+    "definition": "Act of one who stints. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-refute",
+    "word": "refute",
+    "definition": "prove to be false or incorrect",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-reiterate",
+    "word": "reiterate",
+    "definition": "(transitive) To say or do (something) for a second time, such as for emphasis. ",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-suspect",
+    "word": "suspect",
+    "definition": "(transitive) To imagine or suppose (something) to be true, or to exist, without proof. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-serene",
+    "word": "serene",
+    "definition": "calm and peaceful",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-turpitude",
+    "word": "turpitude",
+    "definition": "depravity; a depraved act",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-retiring",
+    "word": "retiring",
+    "definition": "to be shy, and to be inclined to retract from company",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-outlandish",
+    "word": "outlandish",
+    "definition": "(archaic) Of or from a foreign country; not indigenous or native; alien, foreign. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-spurn",
+    "word": "spurn",
+    "definition": "reject with contempt",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-resilient",
+    "word": "resilient",
+    "definition": "Returning quickly to original shape after force is applied; elastic. (of objects or substances) ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-temper",
+    "word": "temper",
+    "definition": "A general tendency or orientation towards a certain type of mood, a volatile state; a habitual way of thinking, behaving or reacting. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-regress",
+    "word": "regress",
+    "definition": "The act of passing back; passage back; return; retrogression. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-subside",
+    "word": "subside",
+    "definition": "sink to lower level or from a depression",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-tedious",
+    "word": "tedious",
+    "definition": "Boring, monotonous, time-consuming, wearisome, livelong. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-supplant",
+    "word": "supplant",
+    "definition": "take the place or move into the position of",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-unalloyed",
+    "word": "unalloyed",
+    "definition": "(of metal) Not alloyed; not in mixture with other metals; pure. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-shrill",
+    "word": "shrill",
+    "definition": "High-pitched and piercing. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-propitious",
+    "word": "propitious",
+    "definition": "presenting favorable circumstances; likely to result in or show signs of success",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-stolid",
+    "word": "stolid",
+    "definition": "having or revealing little emotion or sensibility; not easily aroused or excited",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-resolute",
+    "word": "resolute",
+    "definition": "Firm, unyielding, determined. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-tentative",
+    "word": "tentative",
+    "definition": "A trial; an experiment; an attempt. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-repercussion",
+    "word": "repercussion",
+    "definition": "A consequence or ensuing result of some action. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-subsume",
+    "word": "subsume",
+    "definition": "contain or include",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-vitality",
+    "word": "vitality",
+    "definition": "vigorous and energetic; full of life",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-tacit",
+    "word": "tacit",
+    "definition": "implied by or inferred from actions or statements",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-undercut",
+    "word": "undercut",
+    "definition": "A cut made in the lower part of something; the material so removed. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-sophistry",
+    "word": "sophistry",
+    "definition": "use of clever but false arguments",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-prurient",
+    "word": "prurient",
+    "definition": "Uneasy with desire; itching; especially, having a lascivious anxiety or propensity; lustful. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-temerity",
+    "word": "temerity",
+    "definition": "fearless daring",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-supple",
+    "word": "supple",
+    "definition": "Pliant, flexible, easy to bend. ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-unprecedented",
+    "word": "unprecedented",
+    "definition": "having never been done or known before; novel",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-replenish",
+    "word": "replenish",
+    "definition": "(transitive) To refill; to renew; to supply again or to add a fresh quantity to. ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-surmount",
+    "word": "surmount",
+    "definition": "to get over a challenge or difficult situation",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-whimsical",
+    "word": "whimsical",
+    "definition": "determined by impulse or whim rather than by necessity or reason",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-transcend",
+    "word": "transcend",
+    "definition": "(transitive) To pass beyond the limits of something. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-wheedle",
+    "word": "wheedle",
+    "definition": "(ambitransitive) To cajole or attempt to persuade by flattery. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-substantiate",
+    "word": "substantiate",
+    "definition": "establish or strengthen with new evidence or proof",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-sadistic",
+    "word": "sadistic",
+    "definition": "Delighting in or feeling pleasure from the pain or humiliation of others. ",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-tenuous",
+    "word": "tenuous",
+    "definition": "very thin in gauge or diameter",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 21-valor",
+    "word": "valor",
+    "definition": "(American spelling) Alternative form of valour [Individually sustained verve or passion.] ",
+    "group": "Group 21"
+  },
+  {
+    "id": "Group 22-vivacious",
+    "word": "vivacious",
+    "definition": "Lively and animated; full of life and energy. ",
+    "group": "Group 22"
+  },
+  {
+    "id": "Group 23-vigilant",
+    "word": "vigilant",
+    "definition": "Watchful, especially for danger or disorder; alert; wary ",
+    "group": "Group 23"
+  },
+  {
+    "id": "Group 24-tangential",
+    "word": "tangential",
+    "definition": "diverging from a previous course or line; erratic",
+    "group": "Group 24"
+  },
+  {
+    "id": "Group 25-yield",
+    "word": "yield",
+    "definition": "To give as a result or outcome; to produce or render. ",
+    "group": "Group 25"
+  },
+  {
+    "id": "Group 26-treatise",
+    "word": "treatise",
+    "definition": "A formal, usually lengthy, systematic discourse on some subject. ",
+    "group": "Group 26"
+  },
+  {
+    "id": "Group 27-xenophobic",
+    "word": "xenophobic",
+    "definition": "Exhibiting or characterised by xenophobia, a fear or hatred of strangers, foreigners, or extraterrestial life. ",
+    "group": "Group 27"
+  },
+  {
+    "id": "Group 28-wily",
+    "word": "wily",
+    "definition": "Sly, cunning, full of tricks. ",
+    "group": "Group 28"
+  },
+  {
+    "id": "Group 29-zenith",
+    "word": "zenith",
+    "definition": "the highest point; culmination",
+    "group": "Group 29"
+  },
+  {
+    "id": "Group 30-verve",
+    "word": "verve",
+    "definition": "Enthusiasm, rapture, spirit, or vigour, especially of imagination such as that which animates an artist, musician, or writer, in composing or performing. ",
+    "group": "Group 30"
+  },
+  {
+    "id": "Group 31-abrogate",
+    "word": "abrogate",
+    "definition": "revoke or relinquish formally; do away with",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-abstruse",
+    "word": "abstruse",
+    "definition": "difficult to understand; incomprehensible",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-affluent",
+    "word": "affluent",
+    "definition": "wealthy",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-abrasive",
+    "word": "abrasive",
+    "definition": "Producing abrasion; rough enough to wear away the outer surface. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-aplomb",
+    "word": "aplomb",
+    "definition": "great coolness and composure under strain",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-accord",
+    "word": "accord",
+    "definition": "Agreement or concurrence of opinion, will, or action. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-attribute",
+    "word": "attribute",
+    "definition": "A characteristic or quality of a thing. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 38-querulous",
+    "word": "querulous",
+    "definition": "habitually complaining",
+    "group": "Group 38"
+  },
+  {
+    "id": "Group 31-aghast",
+    "word": "aghast",
+    "definition": "Terrified; struck with amazement; showing signs of terror or horror. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-auxiliary",
+    "word": "auxiliary",
+    "definition": "Helping; giving assistance or support. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-allegorical",
+    "word": "allegorical",
+    "definition": "of, relating to, or containing allegory ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-artful",
+    "word": "artful",
+    "definition": "exhibiting artistic skill",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-apposite",
+    "word": "apposite",
+    "definition": "strikingly appropriate and relevant",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-ad hoc",
+    "word": "ad hoc",
+    "definition": "For a particular purpose. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-calamitous",
+    "word": "calamitous",
+    "definition": "Causing or involving calamity; disastrous. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 38-phony",
+    "word": "phony",
+    "definition": "(informal) Fraudulent; fake; having a misleading appearance. ",
+    "group": "Group 38"
+  },
+  {
+    "id": "Group 31-apprise",
+    "word": "apprise",
+    "definition": "to inform someone about something",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-caricature",
+    "word": "caricature",
+    "definition": "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-allude",
+    "word": "allude",
+    "definition": "(intransitive) To refer to something indirectly or by suggestion; to invoke it by implication rather than mention. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-avert",
+    "word": "avert",
+    "definition": "turn away",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-beholden",
+    "word": "beholden",
+    "definition": "(usually with 'to') Obligated to provide, display, or do something for another; indebted, obliged. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-adhere",
+    "word": "adhere",
+    "definition": "(intransitive) To stick fast or cleave, as a glutinous substance does; to become joined or united. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-censor",
+    "word": "censor",
+    "definition": "to examine and remove objectionable material",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 38-check",
+    "word": "check",
+    "definition": "to limit (usually modifying the growth of something)",
+    "group": "Group 38"
+  },
+  {
+    "id": "Group 31-beguile",
+    "word": "beguile",
+    "definition": "(transitive) To deceive or delude (using guile). ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-depravity",
+    "word": "depravity",
+    "definition": "(uncountable) The state or condition of being depraved; moral debasement. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-amplify",
+    "word": "amplify",
+    "definition": "(transitive) To render larger, more extended, or more intense. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-avid",
+    "word": "avid",
+    "definition": "marked by active interest and enthusiasm",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-belittle",
+    "word": "belittle",
+    "definition": "lessen the importance, dignity, or reputation of",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-all-ecompassing",
+    "word": "all-ecompassing",
+    "definition": "Including everything; universal. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-champion",
+    "word": "champion",
+    "definition": "to fight for a cause",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-boon",
+    "word": "boon",
+    "definition": "a desirable state",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-dilettante",
+    "word": "dilettante",
+    "definition": "an amateur who engages in an activity without serious intentions and who pretends to have knowledge",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-catastrophic",
+    "word": "catastrophic",
+    "definition": "Of or pertaining to a catastrophe. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-brevity",
+    "word": "brevity",
+    "definition": "(uncountable) The quality of being brief in duration. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-cluster",
+    "word": "cluster",
+    "definition": "A bunch or group of several discrete items that are close to each other. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-aphorism",
+    "word": "aphorism",
+    "definition": "a short instructive saying about a general truth",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-compound",
+    "word": "compound",
+    "definition": "make more intense, stronger, or more marked",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-callous",
+    "word": "callous",
+    "definition": "thick-skinned; insensitive",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-effrontery",
+    "word": "effrontery",
+    "definition": "audacious (even arrogant) behavior that you have no right to",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-contemporary",
+    "word": "contemporary",
+    "definition": "From the same time period, coexistent in time; contemporaneous. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-bromide",
+    "word": "bromide",
+    "definition": "a trite or obvious remark",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-coherent",
+    "word": "coherent",
+    "definition": "Unified; sticking together; making up a whole. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-benchmark",
+    "word": "benchmark",
+    "definition": "A standard by which something is evaluated or measured. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-deter",
+    "word": "deter",
+    "definition": "turn away from by persuasion",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-coddle",
+    "word": "coddle",
+    "definition": "(transitive) To treat gently or with great care. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-encroach",
+    "word": "encroach",
+    "definition": "(transitive, obsolete) to seize, appropriate ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-conundrum",
+    "word": "conundrum",
+    "definition": "a difficult problem",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-circumstantial",
+    "word": "circumstantial",
+    "definition": "Pertaining to or dependent on circumstances, especially as opposed to essentials; incidental, not essential. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-contemplate",
+    "word": "contemplate",
+    "definition": "To look at on all sides or in all its aspects; to view or consider with continued attention; to regard with deliberate care; to meditate on; to study, ponder, or consider. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-blighted",
+    "word": "blighted",
+    "definition": "Having caused to suffer a blight. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-dexterous",
+    "word": "dexterous",
+    "definition": "Skillful with one's hands. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-crescendo",
+    "word": "crescendo",
+    "definition": "(music) An instruction to play gradually more loudly, denoted by a long, narrow angle with its apex on the left ( < ), by musicians called a hairpin. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-endow",
+    "word": "endow",
+    "definition": "To provide with a dower or a dowry.",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-defame",
+    "word": "defame",
+    "definition": "Disgrace, dishonour.",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-cloying",
+    "word": "cloying",
+    "definition": "To fill up or choke up; to stop up.",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-crafty",
+    "word": "crafty",
+    "definition": "Relating to, or characterized by, craft or skill; dexterous.",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-content",
+    "word": "content",
+    "definition": "(except in phrases) Satisfaction, contentment; pleasure.",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-dictum",
+    "word": "dictum",
+    "definition": "An authoritative statement; a dogmatic saying; a maxim, an apothegm.",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-extenuating",
+    "word": "extenuating",
+    "definition": "making less guilty or more forgivable",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-entreat",
+    "word": "entreat",
+    "definition": "An entreaty.",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-detract",
+    "word": "detract",
+    "definition": "To take away; to withdraw or remove.",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-counterfeit",
+    "word": "counterfeit",
+    "definition": "A non-genuine article; a fake.",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-dismantle",
+    "word": "dismantle",
+    "definition": "To divest, strip of dress or covering.",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-debase",
+    "word": "debase",
+    "definition": "reduce the quality or value of something",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-dutiful",
+    "word": "dutiful",
+    "definition": "Accepting of one's legal or moral obligations and willing to do them well, and without complaint.",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-frenetic",
+    "word": "frenetic",
+    "definition": "One who is frenetic.",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-gregarious",
+    "word": "gregarious",
+    "definition": "to be likely to socialize with others",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-detrimental",
+    "word": "detrimental",
+    "definition": "(sometimes followed by \"to\") causing harm or injury",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-denigrate",
+    "word": "denigrate",
+    "definition": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-elaborate",
+    "word": "elaborate",
+    "definition": "marked by complexity and richness of detail",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-disconcerting",
+    "word": "disconcerting",
+    "definition": "Tending to cause discomfort, uneasiness or alarm.",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-empathetic",
+    "word": "empathetic",
+    "definition": "showing understanding and ready comprehension of other peoples' states and emotions",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-fringe",
+    "word": "fringe",
+    "definition": "Hair hanging over the forehead.",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-indictment",
+    "word": "indictment",
+    "definition": "An official formal accusation for a criminal offence, or the process by which it is brought to a jury.",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-devious",
+    "word": "devious",
+    "definition": "Cunning or deceiving, not straightforward or honest, not frank",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-disciple",
+    "word": "disciple",
+    "definition": "A person who learns from another, especially one who then teaches others.",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-exegesis",
+    "word": "exegesis",
+    "definition": "critical explanation or analysis, especially of a text",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-extant",
+    "word": "extant",
+    "definition": "still in existence (usually refers to documents).",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-ensue",
+    "word": "ensue",
+    "definition": "To follow (a leader, inclination etc.).",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-hapless",
+    "word": "hapless",
+    "definition": "Very unlucky; ill-fated.",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-indignant",
+    "word": "indignant",
+    "definition": "feeling anger over a perceived injustice",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-dormant",
+    "word": "dormant",
+    "definition": "inactive but capable of being active",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-extol",
+    "word": "extol",
+    "definition": "To praise; to make high.",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-forgo",
+    "word": "forgo",
+    "definition": "To let pass, to leave alone, to let go.",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-facility",
+    "word": "facility",
+    "definition": "The fact of being easy, or easily done; absence of difficulty, simplicity.",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-fathom",
+    "word": "fathom",
+    "definition": "Grasp, envelopment, control.",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-immaculate",
+    "word": "immaculate",
+    "definition": "Having no stain or blemish; spotless, undefiled, clear, clean, pure.",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-ineluctable",
+    "word": "ineluctable",
+    "definition": "impossible to avoid or evade:",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-draconian",
+    "word": "draconian",
+    "definition": "excessively harsh and severe",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-forebode",
+    "word": "forebode",
+    "definition": "Prognostication; presage",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-impenetrable",
+    "word": "impenetrable",
+    "definition": "Not penetrable.",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-fitful",
+    "word": "fitful",
+    "definition": "Irregular; unsteady; characterized by fits.",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-frank",
+    "word": "frank",
+    "definition": "Free postage, a right exercised by governments (usually with definite article).",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-obfuscate",
+    "word": "obfuscate",
+    "definition": "To make dark; overshadow",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-inquisitive",
+    "word": "inquisitive",
+    "definition": "Eager to acquire knowledge.",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-egalitarian",
+    "word": "egalitarian",
+    "definition": "Characterized by social equality and equal rights for all people. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-ideologue",
+    "word": "ideologue",
+    "definition": "A person who advocates an ideology, especially as an official or preeminent advocate. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-impervious",
+    "word": "impervious",
+    "definition": "not admitting of passage or capable of being affected",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-incite",
+    "word": "incite",
+    "definition": "(transitive) To stir up or excite; to rouse or goad into action. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-germane",
+    "word": "germane",
+    "definition": "relevant and appropriate",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-ossify",
+    "word": "ossify",
+    "definition": "make rigid and set into a conventional pattern",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-latitude",
+    "word": "latitude",
+    "definition": "(geography, astronomy, countable) The angular distance north or south from a planet's equator, measured along the meridian of that particular point. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-elusive",
+    "word": "elusive",
+    "definition": "difficult to capture or difficult to remember",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-impediment",
+    "word": "impediment",
+    "definition": "A hindrance; that which impedes or obstructs progress; impedance. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-inalienable",
+    "word": "inalienable",
+    "definition": "Not subject to being alienated, that is, surrendered, taken away, or transferred to another. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-induce",
+    "word": "induce",
+    "definition": "(transitive) To lead by persuasion or influence; incite or prevail upon. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-grumble",
+    "word": "grumble",
+    "definition": "(onomatopoeia) A low thundering, rumbling or growling sound. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-pastiche",
+    "word": "pastiche",
+    "definition": "A work of art, drama, literature, music, or architecture that imitates the work of a previous artist, usually in a positive or neutral way. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-levity",
+    "word": "levity",
+    "definition": "a manner lacking seriousness",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-erstwhile",
+    "word": "erstwhile",
+    "definition": "Formerly; in the past. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-imperative",
+    "word": "imperative",
+    "definition": "Essential; crucial; extremely important. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-inept",
+    "word": "inept",
+    "definition": "Not able to do something; not proficient; displaying incompetence. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-infelicity",
+    "word": "infelicity",
+    "definition": "(uncountable) The condition of being infelicitous. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-hidebound",
+    "word": "hidebound",
+    "definition": "Bound with the hide of an animal. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-perspicacious",
+    "word": "perspicacious",
+    "definition": "acutely insightful and wise",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-malevolent",
+    "word": "malevolent",
+    "definition": "wishing or appearing to wish evil to others; arising from intense ill will or hatred",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-gloat",
+    "word": "gloat",
+    "definition": "To exhibit a conspicuous (sometimes malevolent) pleasure or sense of self-satisfaction, often at an adversary's misfortune. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-impulsive",
+    "word": "impulsive",
+    "definition": "Having the power of driving or impelling; giving an impulse; moving; impellent. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-martinet",
+    "word": "martinet",
+    "definition": "a strict disciplinarian",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-intelligible",
+    "word": "intelligible",
+    "definition": "Capable of being understood; clear to the mind. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-hypocrite",
+    "word": "hypocrite",
+    "definition": "Someone who practices hypocrisy, who pretends to hold beliefs, or whose actions are not consistent with their claimed beliefs. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-ponderous",
+    "word": "ponderous",
+    "definition": "weighed-down; moving slowly",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-mediate",
+    "word": "mediate",
+    "definition": "(transitive) To resolve differences, or to bring about a settlement, between conflicting parties. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-harrowing",
+    "word": "harrowing",
+    "definition": "Causing pain or distress; harrying. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-interminable",
+    "word": "interminable",
+    "definition": "Existing or occurring without interruption or end; ceaseless, unending. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-narcissism",
+    "word": "narcissism",
+    "definition": "Excessive love of oneself. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-makeshift",
+    "word": "makeshift",
+    "definition": "A temporary (usually insubstantial) substitution. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-impolitic",
+    "word": "impolitic",
+    "definition": "Not in accordance with good policy. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-recluse",
+    "word": "recluse",
+    "definition": "one who lives in solitude",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-occlude",
+    "word": "occlude",
+    "definition": "block passage through",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-indefinite",
+    "word": "indefinite",
+    "definition": "Without limit; forever, or until further notice; not definite. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-intuitive",
+    "word": "intuitive",
+    "definition": "Spontaneous, without requiring conscious thought. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-objurgation",
+    "word": "objurgation",
+    "definition": "(uncommon) A strong rebuke or scolding. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-onetime",
+    "word": "onetime",
+    "definition": "Alternative form of one-time (“former; past”) [Of or pertaining to a specific period of time in the past, not extending to the present.] ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-insidious",
+    "word": "insidious",
+    "definition": "working in a subtle but destructive way",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-retaliate",
+    "word": "retaliate",
+    "definition": "(intransitive) To do something harmful or negative to get revenge for some harm; to fight back or respond in kind to an injury or affront. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-pacify",
+    "word": "pacify",
+    "definition": "(transitive) To bring peace to (a place or situation), by ending war, fighting, violence, anger or agitation. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-ingenious",
+    "word": "ingenious",
+    "definition": "(of a person) Displaying genius or brilliance; inventive. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-lassitude",
+    "word": "lassitude",
+    "definition": "a feeling of lack or interest or energy",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-passable",
+    "word": "passable",
+    "definition": "That may be passed or traversed. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-opportunistic",
+    "word": "opportunistic",
+    "definition": "Taking advantage of situations that arise. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-intermediary",
+    "word": "intermediary",
+    "definition": "That intermediates. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-rhapsody",
+    "word": "rhapsody",
+    "definition": "(Ancient Greece, poetry, historical) An epic poem, or part of one, suitable for uninterrupted recitation. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-paragon",
+    "word": "paragon",
+    "definition": "model of excellence or perfection of a kind; one having no equal",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-keen",
+    "word": "keen",
+    "definition": "(chiefly Commonwealth) Often with a prepositional phrase, or with to and an infinitive: showing a quick and ardent responsiveness or willingness; eager, enthusiastic, interested. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-omit",
+    "word": "omit",
+    "definition": "(transitive) To leave out or exclude. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-penetrating",
+    "word": "penetrating",
+    "definition": "able to pierce or penetrate ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-plausible",
+    "word": "plausible",
+    "definition": "seemingly reasonable or probable",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-passive",
+    "word": "passive",
+    "definition": "Being subjected to an action without producing a reaction. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-serendipitous",
+    "word": "serendipitous",
+    "definition": "by serendipity; by unexpected good fortune ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-patronize",
+    "word": "patronize",
+    "definition": "treat condescendingly",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-multifaceted",
+    "word": "multifaceted",
+    "definition": "Having multiple facets. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-ornate",
+    "word": "ornate",
+    "definition": "marked by elaborate rhetoric and elaborated with decorative details",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-picturesque",
+    "word": "picturesque",
+    "definition": "Resembling or worthy of a picture or painting; having the qualities of a picture or painting; pleasingly beautiful. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-posturing",
+    "word": "posturing",
+    "definition": "The assumption of an exaggerated pose or attitude. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-raillery",
+    "word": "raillery",
+    "definition": "light teasing",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-shirk",
+    "word": "shirk",
+    "definition": "(transitive) To avoid, especially a duty, responsibility, etc.; to stay away from. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-penurious",
+    "word": "penurious",
+    "definition": "lacking money; poor",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-omniscient",
+    "word": "omniscient",
+    "definition": "Having total knowledge. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-paltry",
+    "word": "paltry",
+    "definition": "Trashy, trivial, of little value. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-reflect",
+    "word": "reflect",
+    "definition": "(transitive) To bend back (light, etc.) from a surface. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-potent",
+    "word": "potent",
+    "definition": "Powerful; possessing power; effective. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-ramble",
+    "word": "ramble",
+    "definition": "A leisurely stroll; a recreational walk in the countryside. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-sinecure",
+    "word": "sinecure",
+    "definition": "an office that involves minimal duties",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-piquant",
+    "word": "piquant",
+    "definition": "having an agreeably pungent taste",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-remarkable",
+    "word": "remarkable",
+    "definition": "Worthy of remark; notable; interesting. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-pejorative",
+    "word": "pejorative",
+    "definition": "expressing disapproval (usu. refers to a term)",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-resourceful",
+    "word": "resourceful",
+    "definition": "Capable or clever; able to put available resources to efficient or ingenious use; using materials at hand wisely or efficiently. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-redundant",
+    "word": "redundant",
+    "definition": "Superfluous; exceeding what is necessary, no longer needed. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-resent",
+    "word": "resent",
+    "definition": "(transitive) To feel resentment over; to consider as an affront. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-sinuous",
+    "word": "sinuous",
+    "definition": "Having curves in alternate directions; meandering. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-rampant",
+    "word": "rampant",
+    "definition": "(originally) Rearing on both hind legs with the forelegs extended. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-sober",
+    "word": "sober",
+    "definition": "Not drunk; not intoxicated. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-prefigure",
+    "word": "prefigure",
+    "definition": "(often in a Biblical context) To show or suggest ahead of time; to represent beforehand. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-retrench",
+    "word": "retrench",
+    "definition": "(transitive) To cut down or reduce. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-sacrosanct",
+    "word": "sacrosanct",
+    "definition": "Beyond alteration, criticism, or interference, especially due to religious sanction; inviolable. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-residual",
+    "word": "residual",
+    "definition": "Of, relating to, or remaining as a residue; left over. ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-sordid",
+    "word": "sordid",
+    "definition": "involving ignoble actions and motives; arousing moral distaste and contempt; foul and run-down and repulsive",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-remote",
+    "word": "remote",
+    "definition": "At a distance; disconnected. ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-stem from",
+    "word": "stem from",
+    "definition": "Definition not found.",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-presage",
+    "word": "presage",
+    "definition": "be a sign of something",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-self-indulgent",
+    "word": "self-indulgent",
+    "definition": "Exhibiting tendencies of self-indulgence. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-shrewd",
+    "word": "shrewd",
+    "definition": "marked by practical half-headed intelligence",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-resolve",
+    "word": "resolve",
+    "definition": "reach a conclusion after a discussion or deliberation",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-stanch",
+    "word": "stanch",
+    "definition": "(obsolete) Possibly strictly. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-reprobate",
+    "word": "reprobate",
+    "definition": "a person without morals who is disapproved of",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-subdued",
+    "word": "subdued",
+    "definition": "restrain in style or quality",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-prescribe",
+    "word": "prescribe",
+    "definition": "(medicine) To order (a drug or medical device) for use by a particular patient (under licensed authority). ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-speculate",
+    "word": "speculate",
+    "definition": "(obsolete, intransitive) To think, meditate or reflect on a subject; to consider, to deliberate or cogitate. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-unadorned",
+    "word": "unadorned",
+    "definition": "Having no additional decoration or embellishment; plain and simple ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-surrogate",
+    "word": "surrogate",
+    "definition": "A substitute (usually of a person, position or role). ",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-surfeit",
+    "word": "surfeit",
+    "definition": "an excessive amount of something",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-turbid",
+    "word": "turbid",
+    "definition": "Having the lees or sediment disturbed; not clear. (of a liquid) ",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-token",
+    "word": "token",
+    "definition": "Something serving as an expression of something else. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-prevail",
+    "word": "prevail",
+    "definition": "be widespread in a particular area at a particular time; be current:",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-staid",
+    "word": "staid",
+    "definition": "characterized by dignity and propriety",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-valedictory",
+    "word": "valedictory",
+    "definition": "Of or pertaining to a valediction (“an act of parting company; a speech made when parting company”); designed for or suitable to an occasion of bidding farewell or parting company. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-vilify",
+    "word": "vilify",
+    "definition": "spread negative information about",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-ulterior",
+    "word": "ulterior",
+    "definition": "Situated beyond, or on the farther side. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-turgid",
+    "word": "turgid",
+    "definition": "(of language) pompous and tedious",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-unravel",
+    "word": "unravel",
+    "definition": "(transitive) ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-propitiate",
+    "word": "propitiate",
+    "definition": "to placate or appease",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-suppress",
+    "word": "suppress",
+    "definition": "To put an end to, especially with force, to crush, do away with; to prohibit, subdue. ",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-warranted",
+    "word": "warranted",
+    "definition": "Authorized with a warrant. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-wanting",
+    "word": "wanting",
+    "definition": "lacking",
+    "group": "Group 37"
+  },
+  {
+    "id": "Group 31-voluble",
+    "word": "voluble",
+    "definition": "(of a person or a manner of speaking) Fluent or having a ready flow of speech. ",
+    "group": "Group 31"
+  },
+  {
+    "id": "Group 32-vacuous",
+    "word": "vacuous",
+    "definition": "devoid of intelligence, matter, or significance",
+    "group": "Group 32"
+  },
+  {
+    "id": "Group 33-withstand",
+    "word": "withstand",
+    "definition": "(transitive) To resist or endure (something) successfully. ",
+    "group": "Group 33"
+  },
+  {
+    "id": "Group 34-recapitulate",
+    "word": "recapitulate",
+    "definition": "(ambitransitive) To summarize or repeat in concise form. ",
+    "group": "Group 34"
+  },
+  {
+    "id": "Group 35-vestigial",
+    "word": "vestigial",
+    "definition": "forming a very small remnant of something that was once greater or more noticeable",
+    "group": "Group 35"
+  },
+  {
+    "id": "Group 36-wistful",
+    "word": "wistful",
+    "definition": "Full of longing or yearning. ",
+    "group": "Group 36"
+  },
+  {
+    "id": "Group 37-willful",
+    "word": "willful",
+    "definition": "US standard spelling of wilful. [Intentional; deliberate.] ",
+    "group": "Group 37"
+  }
+]
