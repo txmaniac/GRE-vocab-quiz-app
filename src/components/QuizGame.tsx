@@ -23,6 +23,8 @@ export default function QuizGame({ words, groupId, onComplete }: QuizGameProps) 
     const [isAnswered, setIsAnswered] = useState(false);
     const [showRetrospective, setShowRetrospective] = useState(false);
 
+    const [showOptions, setShowOptions] = useState(false);
+
     // Shuffle options for the current question
     useEffect(() => {
         if (currentIndex >= words.length) {
@@ -46,6 +48,7 @@ export default function QuizGame({ words, groupId, onComplete }: QuizGameProps) 
         setOptions(allOptions);
         setSelectedOption(null);
         setIsAnswered(false);
+        setShowOptions(false);
     }, [currentIndex, words]);
 
     const handleOptionClick = (option: string) => {
@@ -123,38 +126,58 @@ export default function QuizGame({ words, groupId, onComplete }: QuizGameProps) 
                     </h2>
                 </div>
 
-                <div className="space-y-3">
-                    {options.map((option, idx) => {
-                        let stateStyle = "bg-neutral-800 border-neutral-700 text-neutral-300 hover:bg-neutral-750 hover:border-neutral-600";
+                <div className="flex justify-center mb-6">
+                    <label className="flex items-center gap-2 text-neutral-400 hover:text-white cursor-pointer transition-colors select-none">
+                        <input
+                            type="checkbox"
+                            checked={showOptions}
+                            onChange={(e) => setShowOptions(e.target.checked)}
+                            className="w-5 h-5 rounded border-neutral-600 bg-neutral-800 text-emerald-500 focus:ring-emerald-500/50"
+                        />
+                        <span className="text-sm font-medium">Show Options</span>
+                    </label>
+                </div>
 
-                        if (isAnswered) {
-                            if (option === currentWord.definition) {
-                                stateStyle = "bg-emerald-900/40 border-emerald-500 text-emerald-200";
-                            } else if (option === selectedOption) {
-                                stateStyle = "bg-red-900/40 border-red-500 text-red-200";
-                            } else {
-                                stateStyle = "opacity-50 bg-neutral-800 border-neutral-800";
+                <div className="space-y-3 min-h-[300px]">
+                    {showOptions ? (
+                        options.map((option, idx) => {
+                            let stateStyle = "bg-neutral-800 border-neutral-700 text-neutral-300 hover:bg-neutral-750 hover:border-neutral-600";
+    
+                            if (isAnswered) {
+                                if (option === currentWord.definition) {
+                                    stateStyle = "bg-emerald-900/40 border-emerald-500 text-emerald-200";
+                                } else if (option === selectedOption) {
+                                    stateStyle = "bg-red-900/40 border-red-500 text-red-200";
+                                } else {
+                                    stateStyle = "opacity-50 bg-neutral-800 border-neutral-800";
+                                }
                             }
-                        }
-
-                        return (
-                            <motion.button
-                                key={idx}
-                                whileTap={!isAnswered ? { scale: 0.98 } : {}}
-                                onClick={() => handleOptionClick(option)}
-                                className={`w-full text-left p-4 md:p-5 rounded-xl border-2 transition-all duration-200 font-medium text-base md:text-lg relative ${stateStyle}`}
-                                disabled={isAnswered}
-                            >
-                                {option}
-                                {isAnswered && option === currentWord.definition && (
-                                    <CheckCircle className="absolute right-4 top-1/2 -translate-y-1/2 text-emerald-500" size={24} />
-                                )}
-                                {isAnswered && option === selectedOption && option !== currentWord.definition && (
-                                    <XCircle className="absolute right-4 top-1/2 -translate-y-1/2 text-red-500" size={24} />
-                                )}
-                            </motion.button>
-                        );
-                    })}
+    
+                            return (
+                                <motion.button
+                                    key={idx}
+                                    initial={{ opacity: 0, y: 10 }}
+                                    animate={{ opacity: 1, y: 0 }}
+                                    whileTap={!isAnswered ? { scale: 0.98 } : {}}
+                                    onClick={() => handleOptionClick(option)}
+                                    className={`w-full text-left p-4 md:p-5 rounded-xl border-2 transition-all duration-200 font-medium text-base md:text-lg relative ${stateStyle}`}
+                                    disabled={isAnswered}
+                                >
+                                    {option}
+                                    {isAnswered && option === currentWord.definition && (
+                                        <CheckCircle className="absolute right-4 top-1/2 -translate-y-1/2 text-emerald-500" size={24} />
+                                    )}
+                                    {isAnswered && option === selectedOption && option !== currentWord.definition && (
+                                        <XCircle className="absolute right-4 top-1/2 -translate-y-1/2 text-red-500" size={24} />
+                                    )}
+                                </motion.button>
+                            );
+                        })
+                    ) : (
+                        <div className="flex flex-col items-center justify-center h-full text-neutral-500 gap-2 py-10">
+                            <p>Options hidden to aid recall</p>
+                        </div>
+                    )}
                 </div>
 
                 <AnimatePresence>
